@@ -17,16 +17,6 @@ DOWNLOAD_DELAY = 0.3
 
 TELNETCONSOLE_ENABLED = False
 
-DEFAULT_REQUEST_HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-    'Accept': '*/*',
-    'Accept-Language': 'en-GB,en;q=0.5',
-    'content-type': 'text/plain',
-    'Connection': 'keep-alive',
-    'TE': 'trailers',
-}
-
 # # Un lock this block if use proxies
 # DOWNLOADER_MIDDLEWARES = {
 #    'rotating_proxies.middlewares.RotatingProxyMiddleware': 610,
@@ -46,3 +36,10 @@ LOG_PATH = open('../log_path.txt', 'r', encoding='utf-8').read()
 REQUEST_FINGERPRINTER_IMPLEMENTATION = '2.7'
 TWISTED_REACTOR = 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'
 FEED_EXPORT_ENCODING = 'utf-8'
+COOKIES_FILE = 'auth.json'
+HTTPERROR_ALLOWED_CODES = [403]
+
+DOWNLOAD_HANDLERS = {
+    "http": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
+    "https": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
+}

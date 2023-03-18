@@ -1,4 +1,4 @@
-# '''
+'''
 import asyncio
 from playwright.async_api import async_playwright
 
@@ -38,11 +38,25 @@ async def main():
 asyncio.run(main())
 # '''
 
+###############################################################################################
+
 '''
 from playwright.sync_api import Playwright, sync_playwright, expect
-
+from configparser import ConfigParser
+from pathlib import Path
+current_folder = Path(__file__).parent.resolve()
 
 def run(playwright: Playwright) -> None:
+    # Loading user info
+    config = ConfigParser()
+    config.read(f"{current_folder}/accounts.ini")
+    user = input("What is your name?: ")
+    try:
+        config_data = config[user]
+    except:
+        print("User not found!")
+        exit(0)
+
     browser = playwright.chromium.launch(headless=False)
     context = browser.new_context()
     page = context.new_page()
@@ -53,11 +67,11 @@ def run(playwright: Playwright) -> None:
     page.wait_for_timeout(300)
     page.get_by_placeholder("Email or Username").click()
     page.wait_for_timeout(300)
-    page.get_by_placeholder("Email or Username").fill("scofield12491@gmail.com")
+    page.get_by_placeholder("Email or Username").fill(config_data['username'])
     page.wait_for_timeout(300)
     page.get_by_placeholder("Email or Username").press("Tab")
     page.wait_for_timeout(300)
-    page.get_by_placeholder("Password").fill("Blockch@in91")
+    page.get_by_placeholder("Password").fill(config_data['password'])
     page.wait_for_timeout(300)
     page.get_by_role("button", name="Sign In").click()
     page.wait_for_timeout(300)
@@ -109,21 +123,9 @@ def run(playwright: Playwright) -> None:
     page.wait_for_timeout(300)
     page.get_by_role("switch").click()
     page.wait_for_timeout(300)
-    page.get_by_role("button", name="Filter (4)").click()
-    page.wait_for_timeout(300)
-    page.locator("div").filter(has_text="10").click()
-    page.wait_for_timeout(300)
-    page.locator("div").filter(has_text="100").click()
-    page.wait_for_timeout(300)
     page.get_by_role("region", name="Price Deviation from MAs").get_by_role("button", name="EMA").click()
     page.wait_for_timeout(300)
     page.get_by_role("region", name="Is Price Above/Below Its Moving Average?").get_by_role("button", name="EMA").click()
-    page.wait_for_timeout(300)
-    page.get_by_role("button", name="Filter (2)").click()
-    page.wait_for_timeout(300)
-    page.locator("div").filter(has_text="100").click()
-    page.wait_for_timeout(300)
-    page.locator("div").filter(has_text="20").click()
     page.wait_for_timeout(300)
     page.get_by_role("link", name="Volatility").click()
     page.wait_for_timeout(300)
@@ -138,12 +140,24 @@ def run(playwright: Playwright) -> None:
 with sync_playwright() as playwright:
     run(playwright)
 # '''
-
-'''
+###############################################################################################
+# '''
 from playwright.sync_api import Playwright, sync_playwright, expect
-
+from configparser import ConfigParser
+from pathlib import Path
+current_folder = Path(__file__).parent.resolve()
 
 def run(playwright: Playwright) -> None:
+    # Loading user info
+    config = ConfigParser()
+    config.read(f"{current_folder}/accounts.ini")
+    user = input("What is your name?: ")
+    try:
+        config_data = config[user]
+    except:
+        print("User not found!")
+        exit(0)
+
     browser = playwright.chromium.launch(headless=False)
     context = browser.new_context() # storage_state="auth.json"
     page = context.new_page()
@@ -153,18 +167,18 @@ def run(playwright: Playwright) -> None:
     page.wait_for_timeout(300)
     page.get_by_placeholder("Email or Username").click()
     page.wait_for_timeout(300)
-    page.get_by_placeholder("Email or Username").fill("scofield12491@gmail.com")
+    page.get_by_placeholder("Email or Username").fill(config_data['username'])
     page.wait_for_timeout(300)
     page.get_by_placeholder("Email or Username").press("Tab")
     page.wait_for_timeout(300)
-    page.get_by_placeholder("Password").fill("Blockch@in91")
+    page.get_by_placeholder("Password").fill(config_data['password'])
     page.wait_for_timeout(300)
     page.get_by_placeholder("Password").press("Enter")
     page.wait_for_timeout(300)
     page.get_by_role("navigation").get_by_role("link", name="MarketMilk™").click()
     page.wait_for_timeout(300)
 
-    # context.storage_state(path="authVN.json")
+    context.storage_state(path="auth.json")
 
     page.get_by_role("button", name="Time Interval").click()
     page.wait_for_timeout(300)
@@ -210,13 +224,8 @@ def run(playwright: Playwright) -> None:
     page.wait_for_timeout(1000)
     page.get_by_text("London").click()
     page.wait_for_timeout(300)
-    # page.locator("div").filter(has_text="New York").click()   # error this
     page.get_by_text("New York").click()
     page.wait_for_timeout(300)
-
-    # page.get_by_role("button", name="Sessions (2)").click()
-    # page.wait_for_timeout(300)
-
     page.get_by_role("link", name="Pivot Points").click()
     page.wait_for_timeout(300)
     page.get_by_role("link", name="? Buy or Sell?").click()

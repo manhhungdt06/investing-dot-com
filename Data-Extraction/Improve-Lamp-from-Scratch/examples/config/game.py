@@ -1,6 +1,6 @@
 from configparser import ConfigParser
-from random import randint
 from pathlib import Path
+from random import randint
 
 if __name__ == "__main__":
     current_folder = Path(__file__).parent.resolve()
