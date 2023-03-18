@@ -1,0 +1,7 @@
+ERROR: Error while obtaining start requests
+Traceback (most recent call last):
+  File "/home/hung/.local/share/virtualenvs/wvb-env/lib/python3.8/site-packages/scrapy/core/engine.py", line 150, in _next_request
+    request = next(self.slot.start_requests)
+  File "/home/hung/Documents/wvb/PRICE2023/BVMF/crawldata/spiders/IndexHist.py", line 92, in start_requests
+    'errback': self.errback,
+AttributeError: 'CrawlerSpider' object has no attribute 'errback'

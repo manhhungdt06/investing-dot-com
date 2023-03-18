@@ -1,0 +1,5 @@
+[
+    {"NAME":"CONNECT TO PROD BY WAN NEW","CONNECT":"wvbprices/pr2atk3ien1@50.206.112.102:1521/wvbprod.us.wvb.com"},
+    {"NAME":"CONNECT TO PROD BY WAN OLD","CONNECT":"wvbprices/pr2atk3ien1@96.79.9.166:1521/wvbprod.us.wvb.com"},
+    {"NAME":"CONNECT TO PROD BY LAN","CONNECT":"wvbprices/pr2atk3ien1@192.168.1.198:1521/wvbprod.us.wvb.com"}
+]

@@ -1,0 +1,11 @@
+ERROR: Error while obtaining start requests
+Traceback (most recent call last):
+  File "/home/hung/.local/share/virtualenvs/wvb-env/lib/python3.8/site-packages/scrapy/core/engine.py", line 150, in _next_request
+    request = next(self.slot.start_requests)
+  File "/home/hung/.local/share/virtualenvs/wvb-env/lib/python3.8/site-packages/scrapy/spiders/__init__.py", line 64, in start_requests
+    yield Request(url, dont_filter=True)
+  File "/home/hung/.local/share/virtualenvs/wvb-env/lib/python3.8/site-packages/scrapy/http/request/__init__.py", line 60, in __init__
+    self._set_url(url)
+  File "/home/hung/.local/share/virtualenvs/wvb-env/lib/python3.8/site-packages/scrapy/http/request/__init__.py", line 108, in _set_url
+    raise ValueError(f'Missing scheme in request url: {self._url}')
+ValueError: Missing scheme in request url: h

@@ -1,0 +1,14 @@
+[
+    {
+        "NAME": "CONNECT TO WVBKLTESTB_worldvest_dev",
+        "CONNECT": "worldvest_dev/wvb2021@210.187.24.83:1525/WVBKLTESTB"
+    },
+    {
+        "NAME": "CONNECT TO WVBKLTESTB_crawler",
+        "CONNECT": "crawler/e4efow@210.187.24.83:1525/WVBKLTESTB"
+    },
+    {
+        "NAME": "CONNECT TO WVBKLTESTB_TUNG",
+        "CONNECT": "tung/p4hag51@210.187.24.83:1525/WVBKLTESTB"
+    }
+]
