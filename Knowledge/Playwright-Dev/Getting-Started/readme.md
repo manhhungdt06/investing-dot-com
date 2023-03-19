@@ -110,31 +110,31 @@ page.pause()
 
 - pytest --browser webkit --headed
 - CLI:
-    * --headed: Run tests in headed mode (default: headless).
-    * --browser: Run tests in a different browser chromium, firefox, or webkit. It can be specified multiple times  *default:chromium).
-    * --browser-channel Browser channel to be used.
-    * --slowmo Run tests with slow mo.
-    * --device Device to be emulated.
-    * --output Directory for artifacts produced by tests (default: test-results).
-    * --tracing Whether to record a trace for each test. on, off, or retain-on-failure (default: off).
-    * --video Whether to record video for each test. on, off, or retain-on-failure (default: off).
-    * --screenshot Whether to automatically capture a screenshot after each test. on, off, or only-on-failure (default: off)
+     --headed: Run tests in headed mode (default: headless).
+     --browser: Run tests in a different browser chromium, firefox, or webkit. It can be specified multiple times  *default:chromium).
+     --browser-channel Browser channel to be used.
+     --slowmo Run tests with slow mo.
+     --device Device to be emulated.
+     --output Directory for artifacts produced by tests (default: test-results).
+     --tracing Whether to record a trace for each test. on, off, or retain-on-failure (default: off).
+     --video Whether to record video for each test. on, off, or retain-on-failure (default: off).
+     --screenshot Whether to automatically capture a screenshot after each test. on, off, or only-on-failure (default: off)
 
 - Fixtures: fixture name as an argument to the test
-  + Function scope: context, page
-  + Session scope: playwright, browser_type, browser, ...
-  + Customizing fixture options: browser_type_launch_args, browser_context_args
+  - Function scope: context, page
+  - Session scope: playwright, browser_type, browser, ...
+  - Customizing fixture options: browser_type_launch_args, browser_context_args
 
 - Parallelism: Running Multiple Tests at Once
-  + pip install pytest-xdist
-  + pytest --numprocesses auto
-  + @pytest.mark.skip_browser("firefox")
-  + @pytest.mark.only_browser("chromium")
-  + --browser-channel chrome
-  + --base-url
-  + Ignore HTTPS errors
-  + Custom viewport size
-  + --device="iPhone 11 Pro"
-  + Persistent context: ???launch_persistent_context
-  + unittest.TestCase
-  + 
+  - pip install pytest-xdist
+  - pytest --numprocesses auto
+  - @pytest.mark.skip_browser("firefox")
+  - @pytest.mark.only_browser("chromium")
+  - --browser-channel chrome
+  - --base-url
+  - Ignore HTTPS errors
+  - Custom viewport size
+  - --device="iPhone 11 Pro"
+  - Persistent context: ???launch_persistent_context
+  - unittest.TestCase
+  
