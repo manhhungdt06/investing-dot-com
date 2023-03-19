@@ -141,7 +141,7 @@ with sync_playwright() as playwright:
     run(playwright)
 # '''
 ###############################################################################################
-# '''
+'''
 from playwright.sync_api import Playwright, sync_playwright, expect
 from configparser import ConfigParser
 from pathlib import Path
@@ -244,4 +244,58 @@ def run(playwright: Playwright) -> None:
 
 with sync_playwright() as playwright:
     run(playwright)
+# '''
+###############################################################################################
+# '''
+import asyncio
+from playwright.async_api import async_playwright
+
+
+async def main():
+    async with async_playwright() as p:
+        # Start tracing before creating / navigating a page.
+        browser = await p.chromium.launch(headless=False)
+        context = await browser.new_context(storage_state="auth.json")
+
+        await context.tracing.start(screenshots=True, snapshots=True, sources=True)
+
+        page = await context.new_page()
+        await page.goto("https://www.babypips.com")
+
+        # Step by step
+        await page.get_by_role("navigation").get_by_role("link", name="MarketMilk™").click()
+        await page.get_by_role("button", name="Time Interval").click()
+        await page.get_by_role("option", name="1W").click()
+        await page.get_by_role("button", name="Price Stream").click()
+        await page.get_by_role("option", name="Last Closed").click()
+        await page.get_by_role("region", name="Currency Strength Meter").get_by_role("link", name="EUR EUR").click()
+        await page.get_by_role("link", name="Performance").click()
+        await page.get_by_role("radio", name="30D").click()
+        await page.get_by_role("link", name="Heat Map").click()
+        await page.get_by_role("link", name="Overbought / Sold").click()
+        await page.get_by_role("region", name="RSI").get_by_role("switch").click()
+        await page.get_by_role("region", name="Stochastic").get_by_role("switch").click()
+        await page.get_by_role("region", name="Williams %R").get_by_role("switch").click()
+        await page.get_by_role("region", name="Bollinger Bands").get_by_role("switch").click()
+        await page.get_by_role("region", name="Keltner Channel").get_by_role("radio", name="Show Values").click()
+        await page.get_by_role("link", name="Trend Matrix").click()
+        await page.get_by_role("link", name="Moving Averages").click()
+        await page.get_by_role("radio", name="Show Values").click()
+        await page.get_by_role("link", name="Volatility").click()
+        await page.get_by_role("radio", name="30D").click()
+        await page.get_by_role("link", name="EUR USD EUR/USD").click()
+        await page.get_by_role("button", name="All Sessions").click()
+        await page.get_by_text("London").click()
+        await page.get_by_text("New York").click()
+        await page.get_by_role("link", name="Pivot Points").click()
+        await page.get_by_role("link", name="? Buy or Sell?").click()
+        await page.get_by_role("link", name="Performance").click()
+        await page.get_by_role("link", name="Overbought / Sold").click()
+        await page.get_by_role("link", name="Trend").click()
+        # End Step by step
+         
+        # Stop tracing and export it into a zip archive.
+        await context.tracing.stop(path="trace.zip")
+
+asyncio.run(main())
 # '''
