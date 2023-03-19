@@ -4,33 +4,24 @@ from datetime import datetime
 import json
 
 
-def dumpthing(num: int = None) -> int:
-    if num < 15:
-        num = 14
-    elif num < 30:
-        num = 29
-    elif num < 45:
-        num = 44
-    else:
-        num = 59
-    return num
+# '''
+# Hung refactor
+def dumpthing(num: int = 69) -> int:
+    return 14 if num < 15 else 29 if num < 30 else 44 if num < 45 else 59
 
 
 PRJ_FOLDER = "PRICE"
-USE_PROD = False    # switch bwtween Prod and HN Crawler Server
-SCRAPY_ROOT = "/root/anaconda3/bin/scrapy" if USE_PROD else "/home/wvbadmin/anaconda3/bin/scrapy"
-# '''
-# Hung refactor
+USE_PROD4 = False    # switch bwtween Prod and HN Crawler Server
+SCRAPY_ROOT = "/root/anaconda3/bin/scrapy" if USE_PROD4 else "/home/wvbadmin/anaconda3/bin/scrapy"
 now = datetime.utcnow()
 print("RUN TIME: UTC Time ", now.strftime("%Y-%m-%d %a-%H:%M"))
-CURRENT_DATE, CURRENT_HOUR, CURRENT_MINUTE = now.strftime(
-    "%a"), now.hour, now.minute
+CURRENT_DATE, CURRENT_HOUR, CURRENT_MINUTE = now.strftime("%a"), now.hour, now.minute
 # Hung refactor
 # '''
-HOUR_ADD, MINUTE_ADD = 0, 0
-RUN_HOUR, RUN_MINUTE = CURRENT_HOUR+HOUR_ADD, CURRENT_MINUTE+MINUTE_ADD
 
 # unknow LOGIC
+HOUR_ADD, MINUTE_ADD = 0, 0
+RUN_HOUR, RUN_MINUTE = CURRENT_HOUR+HOUR_ADD, CURRENT_MINUTE+MINUTE_ADD
 if RUN_MINUTE >= 60:
     RUN_MINUTE, RUN_HOUR = RUN_MINUTE-60, RUN_HOUR+1
 RUN_MINUTE = dumpthing(RUN_MINUTE)
@@ -51,6 +42,6 @@ for row in LIST:
             if RUN_MINUTE == MINUTE:
                 sp = spiders.split(",")     # supose sp are not empty
                 for rs in sp:
-                    FILENAME = f"{mic}_{rs}_{now.strftime('%Y-%m-%d')}"     # ??? not using
+                    # FILENAME = f"{mic}_{rs}_{now.strftime('%Y-%m-%d')}"
                     COMMAND = f"cd {Root}/{PRJ_FOLDER}/{mic} && {SCRAPY_ROOT} crawl {rs} --nolog"
                     os.system(COMMAND)

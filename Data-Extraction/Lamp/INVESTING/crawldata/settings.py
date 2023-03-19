@@ -25,6 +25,7 @@ TELNETCONSOLE_ENABLED = False
 
 # ITEM_PIPELINES = {
 #     'crawldata.pipelines.CrawldataPipeline': 300,
+#     'crawldata.pipelines.HungMongoDataPipeline': 300,
 # }
 
 LOG_ENABLED = True
@@ -36,7 +37,9 @@ LOG_PATH = open('../log_path.txt', 'r', encoding='utf-8').read()
 REQUEST_FINGERPRINTER_IMPLEMENTATION = '2.7'
 TWISTED_REACTOR = 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'
 FEED_EXPORT_ENCODING = 'utf-8'
-COOKIES_FILE = 'auth.json'
+
+# hide this file for security purpose
+COOKIES_FILE = 'invest_auth.json'
 HTTPERROR_ALLOWED_CODES = [403]
 
 DOWNLOAD_HANDLERS = {

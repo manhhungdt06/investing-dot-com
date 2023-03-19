@@ -34,7 +34,7 @@ def run(playwright: Playwright) -> None:
     page.get_by_role("link", name="Investing.com - Financial Markets Worldwide").click()
     page.wait_for_timeout(1000)
     # ---------------------
-    context.storage_state(path="invest_auth.json")
+    context.storage_state(path="investate.json")
 
     context.close()
     browser.close()

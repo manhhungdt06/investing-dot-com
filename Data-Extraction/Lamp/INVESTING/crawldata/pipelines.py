@@ -9,6 +9,8 @@ sys.path.append(os.path.abspath("../"))
 
 
 class CrawldataPipeline:
+    '''Old Oracle SQL process'''
+
     def open_spider(self, spider):
         # jsonfile = '../connection/price_connect.json'
         # strconn = open(jsonfile, 'r', encoding='utf-8')
@@ -50,4 +52,15 @@ class CrawldataPipeline:
         #         KQ = Do_INDEX(item, spider.conn)
         #     pass
         # return item
+        pass
+
+
+class HungMongoDataPipeline:
+    def open_spider(self, spider):
+        pass
+
+    def process_item(self, item, spider):
+        pass
+
+    def close_spider(self, spider):
         pass
