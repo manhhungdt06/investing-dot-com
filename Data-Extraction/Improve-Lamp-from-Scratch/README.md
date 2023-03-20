@@ -7,3 +7,9 @@
 ## ⭐️ Logging ⭐️
 
 ## ⭐️ Config file ⭐️
+
+## ⭐️ Running code ⭐️
+
+- cd /projects/INVESTING$
+- scrapy crawl Index -o data.json
+  
