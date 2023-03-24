@@ -2,7 +2,7 @@
 
 - Financial Data Extraction And Data Analysis Examples From Investing.com With Playwright Python, Scrapy, Pandas, Scikit-learn
 
-# ⭐️ We'll learn the following ⭐️
+## ⭐️ We'll learn the following ⭐️
 
 - Playwright Python ~ an out-of-process automation driver
 - Scrapy ~ a fast high-level web crawling and web scraping framework
@@ -10,7 +10,7 @@
 - Scikit-learn (Sklearn) ~ a robust [library](https://scikit-learn.org/stable/getting_started.html) for machine learning in Python
 - Bonus: Building a Price Prediction Program in [PyTorch](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 
-# ⭐️ Requirements ⭐️
+## ⭐️ Requirements ⭐️
 
 - Some Basic Scrapy Knowledge, from their [tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html) or take a external [course](https://www.udemy.com/course/advanced-web-scraping-with-python-using-scrapy-splash/)
 - Some Basic [Playwright for Python](https://playwright.dev/python/) Knowledge

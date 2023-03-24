@@ -43,8 +43,14 @@
 - Prepare server state via API calls
 - Check the server state after running user actions
 - Reuse authentication state
+- NOTE:
+  - APIRequestContext??? How can request single Request
 
 ## ⭐️ [Assertions](https://playwright.dev/python/docs/test-assertions) ⭐️
+
+- expect ...
+  - to_be_ ...
+  - to_have_ ...
 
 ## ⭐️ Authentication ⭐️
 
@@ -145,6 +151,73 @@ await context.add_init_script("""(storage => {
 
 ## ⭐️ Debugging Tests ⭐️
 
+- Inspector
+  - Run in debug mode
+  - Stepping
+  - breakpoint: await page.pause()
+  - Live editing locators
+  - Picking locators
+  - logs
+  - Trace
+  - Browser Dev Tools
+
 ## ⭐️ Dialogs ⭐️
 
+- such as alert, confirm, prompt as well as beforeunload confirmation
+- 
+
 ## ⭐️ Downloads ⭐️
+
+- download_info.value
+- download.save_as
+
+## ⭐️ Emulation ⭐️
+
+- "userAgent", "screenSize", "viewport", "hasTouch", "geolocation", "locale" and " timezone"
+-  
+
+## ⭐️ Evaluating JavaScript ⭐️
+
+- page.evaluate() API can 
+  - run a JavaScript function in the context of the web page 
+  - bring results back to the Playwright environment. 
+  - Browser globals like **window** and **document** can be used in **evaluate**.
+- page.evaluate('() => document.location.href')
+- Promise or asynchronous evaluate will automatically wait until it's resolved
+- Arguments:
+  - mix of Serializable values and JSHandle or ElementHandle instances
+
+## ⭐️ Events ⭐️
+
+- network requests, child pages, dedicated workers
+- Waiting for event
+  - expect_request(), expect_popup
+- Adding/removing event listener
+  - subscribing and unsubscribing from the events
+- Adding one-off listeners
+- 
+
+## ⭐️ Extensibility ⭐️
+
+- Custom selector
+- create a tag_selector
+- register("tag", tag_selector)
+
+## ⭐️ Frames ⭐️
+
+- Frame objects
+- iframe
+
+## ⭐️ Handles ⭐️
+
+- JSHandle to reference any JavaScript objects in the page
+  - evaluate_handle
+- ElementHandle to reference DOM elements in the page
+  - page.wait_for_selector
+  - frame.wait_for_selector
+- Handles as parameters
+  - passed into the page.evaluate() and similar methods
+- Handle Lifecycle
+  - acquired using the page/ frame methods
+- Locator vs ElementHandle
+  - Should using Locator
