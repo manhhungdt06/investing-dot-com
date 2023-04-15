@@ -1,10 +1,9 @@
-from configparser import ConfigParser
-from pathlib import Path
 from random import randint
 
 if __name__ == "__main__":
+    from pathlib import Path
     current_folder = Path(__file__).parent.resolve()
-
+    from configparser import ConfigParser
     config = ConfigParser()
     config.read(f"{current_folder}/numberguessing.ini")
 
