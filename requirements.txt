@@ -1,0 +1,8 @@
+boltons
+dateparser
+fake-useragent==1.1.3
+pydantic
+pymongo
+python-dateutil
+Scrapy
+# scrapydweb

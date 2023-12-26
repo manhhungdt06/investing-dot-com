@@ -1,0 +1,744 @@
+country,name,full_name,tag,id,symbol,currency,class,market
+argentina,S&P Merval,S&P Merval,merv,13376,MERV,ARS,major_indices,world_indices
+argentina,BNY Mellon Argentina ADR TR,BNY Mellon Argentina ADR Total Return,bny-argentina-adr-tr,956016,BKART,USD,additional_indices,global_indices
+argentina,BNY Mellon Argentina ADR,BNY Mellon Argentina ADR,bny-argentina-adr,955998,BKAR,USD,additional_indices,global_indices
+argentina,S&P/BYMA Argentina General,S&P/BYMA Argentina General,ibg,13317,IBG,ARS,additional_indices,world_indices
+argentina,S&P Merval Argentina,S&P Merval Argentina,mar,13374,MAR,ARS,additional_indices,world_indices
+argentina,MSCI Argentina,MSCI Argentina,msci-argentina,942930,MIAR00000PUS,USD,major_indices,global_indices
+australia,BNY Mellon Australia Classic ADR,BNY Mellon Australia Classic ADR,bny-australia-classic-adr,956036,BKCAU,USD,additional_indices,global_indices
+australia,BNY Mellon Australia ADR TR,BNY Mellon Australia ADR Total Return,bny-australia-adr-tr,956012,BKAUT,USD,additional_indices,global_indices
+australia,BNY Mellon Australia ADR,BNY Mellon Australia ADR,bny-australia-adr,955974,BKAU,USD,additional_indices,global_indices
+australia,DJ Australia LPT,Dow Jones Australia LPT,dj-australia-lpt,954243,DJAULPT,AUD,additional_indices,global_indices
+australia,S&P/ASX 200 Accumulated,S&P/ASX 200 Accumulated,s-p-asx-200-accumulated,951106,AXJOA,AUD,additional_indices,global_indices
+australia,TR Australia 50,Thomson Reuters Australia 50,thomson-reuters-australia-50,941624,TRX50AUP,AUD,additional_indices,global_indices
+australia,BNY Mellon Australia Classic ADR TR,BNY Mellon Australia Classic ADR Total Return,bny-australia-classic-adr-tr,956096,BKCAUT,USD,additional_indices,global_indices
+australia,DJ Australia,Dow Jones Australia,dj-australia,954240,DJAU,AUD,major_indices,global_indices
+australia,DJ Australia USD,Dow Jones Australia USD,dj-australia-usd,954199,AUDOWD,USD,major_indices,global_indices
+australia,MSCI Australia AUD,MSCI Australia AUD,msci-australia-aud,951404,MSCIAU,AUD,major_indices,global_indices
+australia,MSCI Australia USD,MSCI Australia USD,msci-australia-usd,951285,MIAU00000NUS,USD,major_indices,global_indices
+australia,S&P/ASX Midcap 50,S&P/ASX Midcap 50,s-p-asx-midcap50,14495,AXMD,AUD,additional_indices,world_indices
+australia,S&P/ASX All Australian 50,S&P/ASX All Australian 50,s-p-asx-all-australian-50,14502,AXAF,AUD,additional_indices,world_indices
+australia,S&P/ASX All Australian 200,S&P/ASX All Australian 200,s-p-asx-all-australian-200,14503,AXAT,AUD,additional_indices,world_indices
+australia,S&P/ASX 300,S&P/ASX 300,s-p-asx-300,14498,AXKO,AUD,additional_indices,world_indices
+australia,S&P/ASX 200,S&P/ASX 200,aus-200,171,AXJO,AUD,major_indices,world_indices
+australia,ASX All Ordinaries,ASX All Ordinaries,all-ordinaries,14499,AORD,AUD,additional_indices,world_indices
+australia,ASX Small Ordinaries,ASX Small Ordinaries,s-p-asx-small-ord,14497,AXSO,AUD,additional_indices,world_indices
+australia,S&P/ASX 100,S&P/ASX 100,s-p-asx-100,14496,ATOI,AUD,additional_indices,world_indices
+australia,S&P/ASX 20,S&P/ASX 20,s-p-asx-20,14493,ATLI,AUD,additional_indices,world_indices
+australia,S&P/ASX 50,S&P/ASX 50,s-p-asx-50,14494,AFLI,AUD,additional_indices,world_indices
+austria,DJ Austria USD,Dow Jones Austria USD,dj-austria-usd,954198,ATDOWD,USD,major_indices,global_indices
+austria,DJ Austria,Dow Jones Austria,dj-austria,954197,ATDOW,EUR,major_indices,global_indices
+austria,BNY Mellon Austria Classic ADR,BNY Mellon Austria Classic ADR,bny-austria-classic-adr,956009,BKCAT,USD,additional_indices,global_indices
+austria,BNY Mellon Austria Classic ADR TR,BNY Mellon Austria Classic ADR Total Return,bny-austria-classic-adr-tr,956142,BKCATT,USD,additional_indices,global_indices
+austria,ATX,ATX,atx,1016254,ATX,EUR,major_indices,world_indices
+austria,ATX 5,ATX 5,atx-5,49519,ATX5,EUR,additional_indices,world_indices
+austria,ATX Prime,ATX Prime,atx-prime,49520,ATXPRIME,EUR,additional_indices,world_indices
+austria,FTSE Austria,FTSE Austria,ftse-austria,28856,FTWIAUTE,EUR,additional_indices,world_indices
+austria,Immobilien ATX EUR,Immobilien ATX EUR,immobilien---atx,49521,IATX,EUR,additional_indices,world_indices
+austria,New Europe Blue Chip EUR,New Europe Blue Chip EUR,ntx,49522,NTX,EUR,additional_indices,world_indices
+bahrain,Bahrain All Share,Bahrain All Share,bax,13518,BAX,BHD,major_indices,world_indices
+bangladesh,DSE 30,Dhaka Stock Exchange 30,dhaka-stock-exchange-30,989440,DS30,BDT,major_indices,world_indices
+bangladesh,DSE Broad,Dhaka Stock Exchange Broad,dhaka-stock-exchange-broad,989441,DSEX,BDT,additional_indices,world_indices
+belgium,DJ Belgium USD,Dow Jones Belgium USD,dj-belgium-usd,954217,BEDOWD,USD,major_indices,global_indices
+belgium,DJ Belgium,Dow Jones Belgium,dj-belgium,954216,BEDOW,EUR,major_indices,global_indices
+belgium,MSCI Belgium,MSCI Belgium,msci-belgium,942896,MIBE00000PEU,EUR,major_indices,global_indices
+belgium,BNY Belgium Classic ADR,BNY Mellon Belgium Classic ADR,bny-belgium-adr,955992,BKCBE,USD,additional_indices,global_indices
+belgium,BNY Belgium Classic ADR TR,BNY Mellon Belgium Classic ADR TR,bny-belgium-adr-tr,956011,BKCBETR,USD,additional_indices,global_indices
+belgium,BEL Small,BEL Small,bel-small,14837,BELS,EUR,additional_indices,world_indices
+belgium,BEL 20 Net Return,BEL 20 Net Return,bel-20-private,49514,BFXP,EUR,additional_indices,world_indices
+belgium,BEL 20,BEL 20,bel-20,14601,BFX,EUR,major_indices,world_indices
+belgium,BEL Mid,BEL Mid,bel-mid,14836,BELM,EUR,additional_indices,world_indices
+belgium,BEL 20 GR,BEL 20 Gross Return,bel-20-institutional,49513,BFXI,EUR,additional_indices,world_indices
+bosnia,BIRS,BIRS,birs,945507,BIRS1,BAM,major_indices,world_indices
+bosnia,Sarajevo 10,Sarajevo 10,sarajevo-10,945505,SASX10,BAM,major_indices,world_indices
+bosnia,Sarajevo 30,Sarajevo 30,sarajevo-30,945506,SASX30,BAM,additional_indices,world_indices
+botswana,BSE Foreign Company,BSE Foreign Company,bse-foreign-company,41116,FCIBT,BWP,additional_indices,world_indices
+botswana,BSE Domestic Company,BSE Domestic Company,bse-domestic-company,41115,DCIBT,BWP,major_indices,world_indices
+brazil,MSCI Brazil Net USD,MSCI Brazil Net USD,msci-brazil-net-usd,951290,MIBR00000NUS,USD,major_indices,global_indices
+brazil,DJ Brazil,Dow Jones Brazil,dj-brazil,954219,BRDOW,BRL,major_indices,global_indices
+brazil,TR Brazil 50,Thomson Reuters Brazil 50,thomson-reuters-brazil-50,941631,TRX50BRP,BRL,additional_indices,global_indices
+brazil,MSCI Brazil Price USD,MSCI Brazil Price USD,msci-brazil-price-usd,951405,MSCIBR,USD,additional_indices,global_indices
+brazil,DJ Brazil Titans 20 ADR,Dow Jones Brazil Titans 20 ADR,dj-brazil-titans-20-adr,954218,BR20,USD,additional_indices,global_indices
+brazil,BNY Mellon Brazil ADR,BNY Mellon Brazil ADR,bny-brazil-adr,955977,BKBR,USD,additional_indices,global_indices
+brazil,BNY Mellon Brazil ADR TR,BNY Mellon Brazil ADR Total Return,bny-brazil-adr-tr,956031,BKBRT,USD,additional_indices,global_indices
+brazil,BNY Mellon Brazil Classic ADR,BNY Mellon Brazil Classic ADR,bny-brazil-classic-adr,956032,BKCBR,USD,additional_indices,global_indices
+brazil,BNY Mellon Brazil Classic ADR TR,BNY Mellon Brazil Classic ADR Total Return,bny-brazil-classic-adr-tr,956131,BKCBRT,USD,additional_indices,global_indices
+brazil,FTSE RAFI Brazil 50,FTSE RAFI Brazil 50,ftse-rafi-brazil-50,961437,FTFRBR5,BRL,additional_indices,global_indices
+brazil,MSCI Brazil,MSCI Brazil,msci-brazil,942893,MIBR00000PUS,USD,major_indices,global_indices
+brazil,Small Cap Index,Small Cap Index,small-cap-index,17925,SMLL,BRL,additional_indices,world_indices
+brazil,Tag Along,Bovespa Tag Along,tag-along-index,17937,ITAG,BRL,additional_indices,world_indices
+brazil,Brazil broad-Based,Brazil broad-Based,brazil-broad-based,17923,IBRA,BRL,additional_indices,world_indices
+brazil,Brazil Index,Brazil Index,brazil-index,17922,IBRX,BRL,additional_indices,world_indices
+brazil,Mid-Large Cap Index,Mid-Large Cap Index,mid-large-cap-index,17924,MLCX,BRL,additional_indices,world_indices
+brazil,Brazil 50,Bovespa Brazil 50,brazil-index-50,17921,IBX50,BRL,additional_indices,world_indices
+brazil,Bovespa,Bovespa,bovespa,17920,BVSP,BRL,major_indices,world_indices
+bulgaria,BGTR30,BGTR30,bg-tr30,14773,BGTR30,BGN,additional_indices,world_indices
+bulgaria,BGBX40,BGBX40,bg-40,14771,BGBX40,BGN,additional_indices,world_indices
+bulgaria,BSE SOFIX,BSE SOFIX,bse-sofia,49629,SOFIX,BGN,major_indices,world_indices
+canada,MSCI Canada,MSCI Canada,msci-canada,942904,MICA00000PCA,CAD,major_indices,global_indices
+canada,MSCI Canada Net USD,MSCI Canada Net USD,msci-canada-net-usd,951291,MICA00000NUS,USD,major_indices,global_indices
+canada,DJ Canada,Dow Jones Canada,dj-canada,954222,CADOW,CAD,major_indices,global_indices
+canada,DJ Canada USD,Dow Jones Canada USD,dj-canada-usd,954223,CADOWD,USD,major_indices,global_indices
+canada,TR Canada 50,Thomson Reuters Canada 50,thomson-reuters-canada-50,941629,TRX50CAP,CAD,additional_indices,global_indices
+canada,S&P/TSX,S&P/TSX Composite,s-p-tsx-composite,24441,GSPTSE,CAD,major_indices,world_indices
+canada,S&P/TSX 60,S&P/TSX 60,s-p-tsx-60,25282,SPTSE,CAD,additional_indices,world_indices
+canada,S&P/TSX MidCap,S&P/TSX Canadian MidCap,s-p-tsx-completion,25280,SPTSEM,CAD,additional_indices,world_indices
+canada,S&P/TSX Small Cap,S&P/TSX Canadian Small Cap,s-p-tsx-canadian-small-cap,25278,SPTSES,CAD,additional_indices,world_indices
+canada,S&P/TSX Equity,S&P/TSX Equity,s-p-tsx-equity,25281,GSPTXEQ,CAD,additional_indices,world_indices
+canada,S&P/TSX Venture,S&P/TSX Venture Composite,s-p-tsx-venture-composite,25279,SPCDNX,CAD,additional_indices,world_indices
+chile,BNY Mellon Chile ADR TR,BNY Mellon Chile ADR Total Return,bny-chile-adr-tr,956083,BKCLT,USD,additional_indices,global_indices
+chile,Inter 10,Inter 10,inter-10,14768,INTER10,CLP,additional_indices,world_indices
+chile,S&P CLX IPSA,S&P CLX IPSA,ipsa,14767,SPIPSA,CLP,major_indices,world_indices
+chile,BNY Mellon Chile ADR,BNY Mellon Chile ADR,bny-chile-adr,955971,BKCL,USD,additional_indices,global_indices
+chile,S&P CLX IGPA,S&P CLX IGPA,igpa,14769,SPCLXIGPA,CLP,additional_indices,world_indices
+chile,DJ Chile,Dow Jones Chile,dj-chile,954228,CLDOW,CLP,major_indices,global_indices
+chile,MSCI Chile Net USD,MSCI Chile Net USD,msci-chile-net-usd,951292,MICL00000NUS,USD,major_indices,global_indices
+chile,MSCI Chile,MSCI Chile,msci-chile,942903,MICL00000PUS,USD,major_indices,global_indices
+chile,DJ Chile USD,Dow Jones Chile USD,dj-chile-usd,954229,CLDOWD,USD,major_indices,global_indices
+china,DJ Shenzhen,Dow Jones Shenzhen,dj-shenzhen,954535,DJSZ,CNY,additional_indices,global_indices
+china,DJ Shanghai,Dow Jones Shanghai,dj-shanghai,954522,DJSH,CNY,additional_indices,global_indices
+china,BNY Mellon China Select ADRSM,BNY Mellon China Select ADRSM,bny-china-select-adrsm,956002,BKTCN,USD,additional_indices,global_indices
+china,BNY Mellon China ADR,BNY Mellon China ADR,bny-china-adr,955966,BKCN,USD,additional_indices,global_indices
+china,BNY Mellon China Classic ADR,BNY Mellon China Classic ADR,bny-china-classic-adr,956025,BKCCN,USD,additional_indices,global_indices
+china,BNY Mellon China xià yī dài ADR,BNY Mellon China xià yī dài ADR,bny-china-xià-yī-dài-adr,956072,BKXYD,USD,additional_indices,global_indices
+china,BNY Mellon China ADR TR,BNY Mellon China ADR Total Return,bny-china-adr-tr,956073,BKCNT,USD,additional_indices,global_indices
+china,BNY Mellon China Select ADR TRSM,BNY Mellon China Select ADR Total ReturnSM,bny-china-select-adr-trsm,956110,BKTCNT,USD,additional_indices,global_indices
+china,FTSE China A-H 50,FTSE China A-H 50,ftse-china-b-35,961132,FTFCAH50,USD,additional_indices,global_indices
+china,FTSE China A All Share,FTSE China A All Share,ftse-china-a-all-share,961138,FTXI7,CNY,additional_indices,global_indices
+china,BNY Mellon China Classic ADR TR,BNY Mellon China Classic ADR Total Return,bny-china-classic-adr-tr,956102,BKCCNT,USD,additional_indices,global_indices
+china,MSCI China ex Hong Kong Net USD,MSCI China ex Hong Kong Net USD,msci-china-ex-hong-kong-net-usd,951295,MICNH0000NUS,USD,additional_indices,global_indices
+china,FTSE China 50 TR NET,FTSE China 50 TR NET,ftse-china-50-tr-net,951247,TFTGPDEU003U,USD,additional_indices,global_indices
+china,China A50,FTSE China A50,ftse-china-a50,28930,FTXIN9,CNY,additional_indices,world_indices
+china,S&P/CITIC50,S&P/CITIC50,s-p-citic50,28932,SPCITIC50,CNY,additional_indices,world_indices
+china,Shanghai SE A Share,Shanghai SE A Share,shanghai-se-a-share,995201,SSEA,CNY,additional_indices,world_indices
+china,SSE 100,SSE 100,sse-100,995240,SSE100I,CNY,additional_indices,world_indices
+china,S&P/CITIC300,S&P/CITIC300,s-p-citic300,28931,SPCITIC300,CNY,additional_indices,world_indices
+china,FTSE China 50 USD,FTSE China 50 USD,ftse-china-50-usd,961131,FTXIN0USD,USD,major_indices,global_indices
+china,FTSE China 50 HKD,FTSE China 50 HKD,ftse-china-50-hkd,961130,FXT,HKD,major_indices,global_indices
+china,MSCI China Net USD,MSCI China Net USD,msci-china-net-usd,951293,MICN00000NUS,USD,major_indices,global_indices
+china,Shanghai,Shanghai Composite,shanghai-composite,40820,SSEC,CNY,major_indices,world_indices
+china,SZSE Component,SZSE Component,szse-component,942630,SZI,CNY,major_indices,world_indices
+china,TR China 50,Thomson Reuters China 50,thomson-reuters-china-50,941625,TRX50CNP,CNY,additional_indices,global_indices
+colombia,FTSE Colombia,FTSE Colombia,ftse-colombia,29043,FTWICOLL,COP,additional_indices,world_indices
+colombia,COLEQTY,COLEQTY,coleqty,945499,COLEQTY,COP,additional_indices,world_indices
+colombia,COL20,COL20,col20,49643,COL20,COP,additional_indices,world_indices
+colombia,COL General,COL General,col-general,49635,IGBC,COP,additional_indices,world_indices
+colombia,COLCAP,COLCAP,colcap,49642,COLCAP,COP,major_indices,world_indices
+colombia,MSCI Colombia,MSCI Colombia,msci-colombia,942914,MICO00000PUS,USD,major_indices,global_indices
+costa rica,Costa Rica Indice Accionario,Costa Rica Indice Accionario,costa-rica-indice-accionario,41169,IACR,CRC,additional_indices,world_indices
+croatia,CROBEX,CROBEX,crobex,14774,CRBEX,HRK,major_indices,world_indices
+croatia,CROBEX10,CROBEX10,crobex10,14775,CRBEX10,HRK,additional_indices,world_indices
+cyprus,DJ Cyprus 10 Titans,Dow Jones Cyprus 10 Titans,dj-cyprus-10-titans,954321,DJCY10,EUR,major_indices,global_indices
+cyprus,Cyprus Main and Parallel Market,Cyprus Main and Parallel Market,cyprus-main-and-parallel-market,49752,CYMNPRL,EUR,additional_indices,world_indices
+cyprus,Cyprus Alternative Market,Cyprus Alternative Market,cyprus-alternative-market,49755,CYALTRN,EUR,additional_indices,world_indices
+cyprus,Cyprus Main Market,Cyprus Main Market,cyprus-main-market,49753,CYMAIN,EUR,major_indices,world_indices
+czech republic,PX-GLOB,PX-GLOB,px-glob,945502,PX-GLOB,CZK,additional_indices,world_indices
+czech republic,OETOB Czech Traded (USD),OETOB Czech Traded (USD),oetob-czech-traded-(usd),49644,CTXUSD,CZK,additional_indices,world_indices
+czech republic,OETOB Czech Traded (EUR),OETOB Czech Traded (EUR),oetob-czech-traded-(eur),49646,CTXEUR,CZK,additional_indices,world_indices
+czech republic,OETOB Czech Traded (CZK),OETOB Czech Traded (CZK),oetob-czech-traded-(czk),49645,CTL,CZK,additional_indices,world_indices
+czech republic,FTSE Czech Republic,FTSE Czech Republic,ftse-czech-republic,29044,FTWICZHL,CZK,additional_indices,world_indices
+czech republic,PX,PX,px,50647,PX,CZK,major_indices,world_indices
+czech republic,MSCI Czech Republic,MSCI Czech Republic,msci-czech-republic,942915,MICZ00000PCZ,CZK,major_indices,global_indices
+denmark,DJ Denmark USD,Dow Jones Denmark USD,dj-denmark-usd,954627,DKDOWD,USD,major_indices,global_indices
+denmark,DJ Denmark,Dow Jones Denmark,dj-denmark,954626,DKDOW,DKK,major_indices,global_indices
+denmark,MSCI Denmark,MSCI Denmark,msci-denmark,942909,MIDK00000PDK,DKK,major_indices,global_indices
+denmark,OMXC20,OMX Copenhagen 20,omx-copenhagen-20,25760,OMXC20,DKK,major_indices,world_indices
+denmark,BNY Mellon Denmark Classic ADR,BNY Mellon Denmark Classic ADR,bny-denmark-classic-adr,956026,BKCDK,USD,additional_indices,global_indices
+denmark,OMX Copenhagen All shares,OMX Copenhagen All shares,omx-copenhagen-all-shares,25756,OMXCGI,DKK,additional_indices,world_indices
+denmark,OMXC25,OMX Copenhagen 25,omx-copenhagen-25,1073055,OMXC25CAP,DKK,additional_indices,world_indices
+denmark,OMX Copenhagen Small Cap,OMX Copenhagen Small Cap,omx-copenhagen-small-cap,25758,OMXCSCPI,DKK,additional_indices,world_indices
+denmark,OMX Copenhagen Mid Cap,OMX Copenhagen Mid Cap,omx-copenhagen-mid-cap,25759,OMXCMCPI,DKK,additional_indices,world_indices
+denmark,OMX Copenhagen Benchmark,OMX Copenhagen Benchmark,omx-copenhagen-benchmark,25757,OMXCBGI,DKK,additional_indices,world_indices
+dubai,DFM General,DFM General,dfmgi,12522,DFMGI,AED,major_indices,world_indices
+dubai,ADX General,ADX General,adx-general,941336,ADI,AED,major_indices,world_indices
+ecuador,Guayaquil Select,Guayaquil Select,guayaquil-select,41173,BVG,USD,major_indices,world_indices
+ecuador,Ecuador General Adj,Ecuador General Adj,ecuador-general-adj,41170,BVQA,USD,additional_indices,world_indices
+egypt,EGX 70,EGX 70,egx70,12891,EGX70,EGP,additional_indices,world_indices
+egypt,EGX 30 Capped,EGX 30 Capped,egx-20-capped,40525,EGX30CAP,EGP,additional_indices,world_indices
+egypt,EGX 30,EGX 30,egx30,12860,EGX30,EGP,major_indices,world_indices
+egypt,EGX 100,EGX 100,egx-100,40524,EGX100,EGP,additional_indices,world_indices
+egypt,MSCI Egypt,MSCI Egypt,msci-egypt,942917,MIEG00000PEG,EGP,major_indices,global_indices
+egypt,DJ EGX Egypt Titans 20 USD,Dow Jones EGX Egypt Titans 20 USD,dj-egx-egypt-titans-20-usd,954348,DJEG20D,USD,additional_indices,global_indices
+egypt,DJ EGX Egypt Titans 20 EUR,Dow Jones EGX Egypt Titans 20 EUR,dj-egx-egypt-titans-20-eur,954349,DJEG20E,EUR,additional_indices,global_indices
+estonia,DJ Estonia Total Market (EUR),DJ Estonia Total Market (EUR),dj-estonia-total-market-(eur),41121,DWEE,EUR,additional_indices,world_indices
+euro zone,MSCI EMU,MSCI EMU,msci-emu,942960,MIEM00000PEU,EUR,additional_indices,global_indices
+euro zone,FTSE All World Europe,FTSE All World Europe,ftse-all-world-europe,961200,FTAWEURSR,USD,additional_indices,global_indices
+euro zone,BNY Mellon Europe Classic ADR TR,BNY Mellon Europe Classic ADR Total Return,bny-europe-classic-adr-tr,956139,BKCEUT,USD,additional_indices,global_indices
+euro zone,BNY Mellon Europe ADR TR,BNY Mellon Europe ADR Total Return,bny-europe-adr-tr,956134,BKEURT,USD,additional_indices,global_indices
+euro zone,BNY Mellon Europe Classic ADR,BNY Mellon Europe Classic ADR,bny-europe-classic-adr,956014,BKCEU,USD,additional_indices,global_indices
+euro zone,BNY Mellon Europe ADR,BNY Mellon Europe ADR,bny-europe-adr,956008,BKEUR,USD,additional_indices,global_indices
+euro zone,The Europe Dow USD,The Europe Dow USD,the-europe-dow-usd,954682,EDOW,USD,additional_indices,global_indices
+euro zone,STOXX Europe 600 EUR NR,STOXX Europe 600 EUR NR,stoxx-europe-600-eur-nr,948469,STOXXR,EUR,additional_indices,global_indices
+euro zone,MSCI Europe FX Hedge,MSCI Europe FX Hedge,msci-europe-fx-hedge,943113,MIEU00000FUS,USD,additional_indices,global_indices
+euro zone,MSCI Europe Standard,MSCI Europe Standard,msci-europe-standard,943004,MIEU00000PEU,EUR,additional_indices,global_indices
+euro zone,MSCI Europe Ex Switzerland,MSCI Europe Ex Switzerland,msci-europe-ex-switzerland,942964,MIEUC0000PEU,EUR,additional_indices,global_indices
+euro zone,FTSE RAFI Europe NR,FTSE RAFI Europe NR,ftse-rafi-europe,942887,TFTFREUNE,EUR,additional_indices,global_indices
+euro zone,MSCI Europe,MSCI Europe,msci-europe,942958,MIEU00000PUS,USD,major_indices,global_indices
+euro zone,FTSE Europe,FTSE Europe,ftse-europe,943748,FTFREU,EUR,major_indices,global_indices
+euro zone,MSCI Mexico Net USD,MSCI Mexico Net USD,msci-mexico-net-usd,951357,MIMX00000NUS,USD,major_indices,global_indices
+euro zone,DJ Europe,Dow Jones Europe,dj-europe,954661,E1DOW,USD,major_indices,global_indices
+euro zone,The Europe Dow EUR,The Europe Dow EUR,the-europe-dow-eur,954683,EDOWE,EUR,major_indices,global_indices
+euro zone,FTSE4Good Europe 50,FTSE4Good Europe 50,ftse4good-europe-50,961148,FT4GDEU50,EUR,major_indices,global_indices
+euro zone,STOXX 600,STOXX 600,stoxx-600?cid=1096538,1096538,STOXX,EUR,major_indices,global_indices
+euro zone,MSCI EU,MSCI EU,msci-eu,942950,MIEC00000PEU,EUR,major_indices,global_indices
+euro zone,STOXX 600,STOXX 600,stoxx-600,40823,STOXX,EUR,major_indices,global_indices
+finland,OMX Helsinki Small Cap PI,OMX Helsinki Small Cap PI,omx-helsinki-small-cap-pi,25819,OMXHSCPI,EUR,additional_indices,world_indices
+finland,OMX Helsinki Cap PI,OMX Helsinki Cap PI,omx-helsinki-cap-pi,25822,OMXHCAPPI,EUR,additional_indices,world_indices
+finland,OMX Helsinki Benchmark,OMX Helsinki Benchmark,omx-helsinki-benchmark,25820,OMXHBPI,EUR,additional_indices,world_indices
+finland,OMX Helsinki,OMX Helsinki,omx-helsinki,25824,OMXHPI,EUR,additional_indices,world_indices
+finland,OMX Helsinki 25,OMX Helsinki 25,omx-helsinki-25,25823,OMXH25,EUR,major_indices,world_indices
+finland,OMX Helsinki Mid Cap,OMX Helsinki Mid Cap,omx-helsinki-mid-cap,25821,OMXHMCPI,EUR,additional_indices,world_indices
+finland,BNY Mellon Finland Classic ADR TR,BNY Mellon Finland Classic ADR TR,bny-finland-adr-tr,956067,BKCFITR,USD,additional_indices,global_indices
+finland,BNY Mellon Finland Classic ADR,BNY Mellon Finland Classic ADR,bny-finland-adr,955982,BKCFI,USD,additional_indices,global_indices
+finland,DJ Finland USD,Dow Jones Finland USD,dj-finland-usd,954689,FIDOWD,USD,major_indices,global_indices
+finland,DJ Finland,Dow Jones Finland,dj-finland,954688,FIDOW,EUR,major_indices,global_indices
+finland,MSCI Finland,MSCI Finland,msci-finland,942897,MIFI00000PEU,EUR,major_indices,global_indices
+france,BNY Mellon France ADR,BNY Mellon France ADR,bny-france-adr,955985,BKFR,USD,additional_indices,global_indices
+france,CAC 40,CAC 40,france-40,167,FCHI,EUR,major_indices,world_indices
+france,CAC Next 20,CAC Next 20,cac-next-20,14792,CN20,EUR,additional_indices,world_indices
+france,CAC All Shares,CAC All Shares,cac-allshares,14796,PAX,EUR,additional_indices,world_indices
+france,CAC All-Tradable,CAC All-Tradable,cac-all-tradable,14791,CACT,EUR,additional_indices,world_indices
+france,CAC Large 60,CAC Large 60,cac-large-60,19643,CACLG,EUR,additional_indices,world_indices
+france,CAC Mid & Small,CAC Mid & Small,cac-mid---small-190,14795,CACMS,EUR,additional_indices,world_indices
+france,CAC Mid 60,CAC Mid 60,cac-mid-100,14794,CACMD,EUR,additional_indices,world_indices
+france,CAC Small,CAC Small,cac-small,14793,CACS,EUR,additional_indices,world_indices
+france,EuroNext 100,EuroNext 100,euronext-100,14865,N100,EUR,additional_indices,world_indices
+france,Next 150,Next 150,next-150-index,14866,N150,EUR,additional_indices,world_indices
+france,SBF 120,SBF 120,sbf-120,14790,SBF120,EUR,additional_indices,world_indices
+france,TR France 50,Thomson Reuters France 50,thomson-reuters-france-50,941627,TRX50FRP,EUR,additional_indices,global_indices
+france,BNY Mellon France Classic ADR TR,BNY Mellon France Classic ADR Total Return,bny-france-classic-adr-tr,956100,BKCFRT,USD,additional_indices,global_indices
+france,BNY Mellon France ADR TR,BNY Mellon France ADR Total Return,bny-france-adr-tr,956061,BKFRT,USD,additional_indices,global_indices
+france,BNY Mellon France Classic ADR,BNY Mellon France Classic ADR,bny-france-classic-adr,956034,BKCFR,USD,additional_indices,global_indices
+france,DJ France Titans 30 USD,Dow Jones France Titans 30 USD,dj-france-titans-30-usd,954691,FR30D,USD,additional_indices,global_indices
+france,DJ France USD,Dow Jones France USD,dj-france-usd,954693,FRDOWD,USD,major_indices,global_indices
+france,DJ France,Dow Jones France,dj-france,954692,FRDOW,EUR,major_indices,global_indices
+france,DJ France Titans 30 EUR,Dow Jones France Titans 30 EUR,dj-france-titans-30-eur,954690,FR30,EUR,major_indices,global_indices
+france,MSCI France Net EUR,MSCI France Net EUR,msci-france-net-eur,951337,MIFR00000NEU,EUR,major_indices,global_indices
+france,MSCI France,MSCI France,msci-france,942894,MIFR00000PEU,EUR,major_indices,global_indices
+germany,Technology All Share,DAX Technology All Share,dax-technology-all-share,19131,TECALL,EUR,additional_indices,world_indices
+germany,Midcap,DAX Midcap,mdaxi,13782,MDAXI,EUR,additional_indices,world_indices
+germany,Classic All Share,Classic All Share,classic-all-share,19128,CLALL,EUR,additional_indices,world_indices
+germany,XETRA DAX Price,XETRA DAX Price,xetra-dax-price,951163,DAX,EUR,additional_indices,world_indices
+germany,Prime All Share,Prime All Share,prime-all-share,19126,PRIME,EUR,additional_indices,world_indices
+germany,HDAX,HDAX,hdax,19118,GDAXHI,EUR,additional_indices,world_indices
+germany,TecDAX,TecDAX,tecdax,13784,TECDAX,EUR,additional_indices,world_indices
+germany,SDAX,SDAX,sdaxi,13783,SDAXI,EUR,additional_indices,world_indices
+germany,BNY Mellon Germany Classic ADR TR,BNY Mellon Germany Classic ADR Total Return,bny-germany-classic-adr-tr,956115,BKCDET,USD,additional_indices,global_indices
+germany,BNY Mellon Germany Classic ADR,BNY Mellon Germany Classic ADR,bny-germany-classic-adr,956030,BKCDE,USD,additional_indices,global_indices
+germany,BNY Mellon Germany ADR TR,BNY Mellon Germany ADR Total Return,bny-germany-adr-tr,956022,BKDET,USD,additional_indices,global_indices
+germany,BNY Mellon Germany ADR,BNY Mellon Germany ADR,bny-germany-adr,956000,BKDE,USD,additional_indices,global_indices
+germany,DJ Germany Titans 30 USD,Dow Jones Germany Titans 30 USD,dj-germany-titans-30-usd,954231,DE30D,USD,additional_indices,global_indices
+germany,DJ Germany Titans 30 EUR,Dow Jones Germany Titans 30 EUR,dj-germany-titans-30-eur,954230,DE30,EUR,additional_indices,global_indices
+germany,TR Germany 50,Thomson Reuters Germany 50,thomson-reuters-germany-50,941628,TRX50DEP,EUR,additional_indices,global_indices
+germany,DJ Germany USD,Dow Jones Germany USD,dj-germany-usd,954233,DEDOWD,USD,major_indices,global_indices
+germany,DJ Germany,Dow Jones Germany,dj-germany,954232,DEDOW,EUR,major_indices,global_indices
+germany,MSCI Germany Net EUR,MSCI Germany Net EUR,msci-germany-net-eur,951296,MIDE00000NEU,EUR,major_indices,global_indices
+germany,MSCI Germany,MSCI Germany,msci-germany,942905,MIDE00000PEU,EUR,major_indices,global_indices
+germany,DAX,DAX,germany-30,172,GDAXI,EUR,major_indices,world_indices
+germany,Euro Stoxx 50,Euro Stoxx 50,eu-stoxx50,175,STOXX50E,EUR,major_indices,world_indices
+greece,FTSE/Athex 20,FTSE/ATHEX Large Cap,ftse-ase---20,49610,ATF,EUR,additional_indices,world_indices
+greece,DJ Greece USD,Dow Jones Greece USD,dj-greece-usd,954699,GRDOWD,USD,major_indices,global_indices
+greece,DJ Greece,Dow Jones Greece,dj-greece,954698,GRDOW,EUR,major_indices,global_indices
+greece,MSCI Greece,MSCI Greece,msci-greece,942916,MIGR00000PEU,EUR,major_indices,global_indices
+greece,Athens General Composite,Athens General Composite,athens-general,961613,ATG,EUR,major_indices,world_indices
+hong kong,MSCI Hong Kong,MSCI Hong Kong,msci-hong-kong,942895,MIHK00000PHK,HKD,major_indices,global_indices
+hong kong,DJ Hong Kong,Dow Jones Hong Kong,dj-hong-kong,954700,HKDOW,HKD,major_indices,global_indices
+hong kong,DJ Hong Kong Titans 30,Dow Jones Hong Kong Titans 30,dj-hong-kong-titans-30,954859,XLHK,HKD,major_indices,global_indices
+hong kong,DJ Hong Kong USD,Dow Jones Hong Kong USD,dj-hong-kong-usd,954701,HKDOWD,USD,additional_indices,global_indices
+hong kong,Hang Seng CCI,Hang Seng China Affiliated Corps (CCI),hang-seng-china-affiliated,38013,HSCC,HKD,additional_indices,world_indices
+hong kong,FTSE China 50,FTSE China 50,ftse-china-25,28933,FTXIN25,HKD,additional_indices,world_indices
+hong kong,FTSE CHI Hong Kong,FTSE CHI Hong Kong,ftse-chi-hong-kong,28881,FTQDII1,HKD,additional_indices,world_indices
+hong kong,Hang Seng CEI,Hang Seng China Enterprise (CEI),hang-seng-china-enterprises,38012,HSCE,HKD,additional_indices,world_indices
+hong kong,Hang Seng,Hang Seng,hang-sen-40,179,HSI,HKD,major_indices,world_indices
+hong kong,FTSE EPRA/NAREIT Hong Kong,FTSE EPRA/NAREIT Hong Kong,ftse-epra-nareit-hong-kong,28882,FTELHK,HKD,additional_indices,world_indices
+hungary,Budapest SE,Budapest SE,hungary-stock-market,38014,BUX,HUF,major_indices,world_indices
+hungary,MSCI Hungary,MSCI Hungary,msci-hungary,942918,MIHU00000PHU,HUF,major_indices,global_indices
+hungary,BUMIX,BUMIX,bumix,49598,BUMIX,HUF,additional_indices,world_indices
+hungary,FTSE Hungary,FTSE Hungary,ftse-hungary,28888,FTWIHUNL,HUF,additional_indices,world_indices
+hungary,HTX (EUR),HTX (EUR),htx-(eur),49601,HTXEUR,HUF,additional_indices,world_indices
+hungary,HTX (HUF),HTX (HUF),htx-(huf),49600,HTL,HUF,additional_indices,world_indices
+hungary,HTX (USD),HTX (USD),htx-(usd),49599,HTXUSD,HUF,additional_indices,world_indices
+iceland,OMX Iceland Small Cap PI,OMX Iceland Small Cap PI,omx-iceland-small-cap-pi,25883,OMXISCPI,ISK,additional_indices,world_indices
+iceland,OMX Iceland 6 PI ISK,OMX Iceland 6 PI ISK,omx-iceland-6-pi-isk,25885,OMXI8,ISK,additional_indices,world_indices
+iceland,ICEX Main,ICEX Main,omx-iceland-all-share,25887,OMXIPI,ISK,major_indices,world_indices
+iceland,OMX Iceland Mid Cap PI,OMX Iceland Mid Cap PI,omx-iceland-mid-cap-pi,25884,OMXIMCPI,ISK,additional_indices,world_indices
+iceland,ICEX All Share Total Return,ICEX All Share Total Return,icex-all-share-total-return,49634,OMXIGI,ISK,additional_indices,world_indices
+india,India VIX,India VIX,india-vix,17942,NIFVIX,INR,additional_indices,world_indices
+india,Nifty 200,Nifty 200,cnx-200,17949,NIFTY200,INR,additional_indices,world_indices
+india,Nifty 50 USD,Nifty 50 USD,s-p-cnx-defty,17944,NSED,INR,additional_indices,world_indices
+india,Nifty 50 Value 20,Nifty 50 Value 20,nv20,954869,NV20,INR,additional_indices,world_indices
+india,Nifty 500,Nifty 500,s-p-cnx-500,17945,NIFTY500,INR,additional_indices,world_indices
+india,NIFTY Midcap 100,NIFTY Midcap 100,cnx-midcap,17946,NIFMDCP100,INR,additional_indices,world_indices
+india,Nifty Midcap 50,Nifty Midcap 50,nifty-midcap-50,17947,NIMDCP50,INR,additional_indices,world_indices
+india,Nifty Next 50,Nifty Next 50,cnx-nifty-junior,17941,NN50,INR,additional_indices,world_indices
+india,NIFTY Smallcap 100,NIFTY Smallcap 100,cnx-smallcap,17948,NIFSMCP100,INR,additional_indices,world_indices
+india,Nifty 100,Nifty 100,cnx-100,17943,NIFTY100,INR,additional_indices,world_indices
+india,BSE Sensex,BSE Sensex 30,sensex,39929,BSESN,INR,major_indices,world_indices
+india,Nifty 50,Nifty 50,s-p-cnx-nifty,17940,NSEI,INR,major_indices,world_indices
+india,Nifty Smallcap 250,Nifty Smallcap 250,nifty-smallcap-250,1141645,NISM250,INR,additional_indices,world_indices
+india,S&P BSE ALLCAP,S&P BSE ALLCAP,s-p-bse-allcap,1116121,SPBSAIP,INR,additional_indices,world_indices
+india,BSE SmallCap,S&P BSE SmallCap,s-p-bse-smallcap,39937,SPBSESC,INR,additional_indices,world_indices
+india,BSE MidCap,S&P BSE Mid Cap,s-p-bse-mid-cap,39936,SPBSEMC,INR,additional_indices,world_indices
+india,S&P BSE-500,S&P BSE-500,s-p-bse-500,39935,BSE500,INR,additional_indices,world_indices
+india,S&P BSE-200,S&P BSE-200,s-p-bse-200,39934,BSE200,INR,additional_indices,world_indices
+india,S&P BSE-100,S&P BSE-100,s-p-bse-100,39933,BSE100,INR,additional_indices,world_indices
+india,BNY Mellon India ADR,BNY Mellon India ADR,bny-india-adr,955968,BKIN,USD,additional_indices,global_indices
+india,DJ Islamic Market India USD,Dow Jones Islamic Market India USD,dj-islamic-market-india-usd,954475,DJIMIND,USD,additional_indices,global_indices
+india,DJ Islamic Market India INR,Dow Jones Islamic Market India INR,dj-islamic-market-india-inr,954474,DJIMIN,INR,additional_indices,global_indices
+india,TR India 50,Thomson Reuters India 50,thomson-reuters-india-50,941632,TRX50INP,INR,additional_indices,global_indices
+india,MSCI India Net USD,MSCI India Net USD,msci-india-net-usd,951342,MIIN00000NUS,USD,major_indices,global_indices
+india,MSCI India,MSCI India,msci-india,942919,MIIN00000PIN,INR,major_indices,global_indices
+india,BNY Mellon India ADR TR,BNY Mellon India ADR Total Return,bny-india-adr-tr,956060,BKINT,USD,additional_indices,global_indices
+india,BNY Mellon India DR TR,BNY Mellon India DR Total Return,bny-india-dr-tr,956086,BKDINT,USD,additional_indices,global_indices
+indonesia,IDX Composite,Jakarta Stock Exchange Composite Index,idx-composite,29049,JKSE,IDR,major_indices,world_indices
+indonesia,BNY Indonesia Classic ADR TR,BNY Mellon Indonesia Classic ADR TR,bny-indonesia-adr-tr,956062,BKCIDTR,USD,additional_indices,global_indices
+indonesia,BNY Indonesia Classic ADR,BNY Mellon Indonesia Classic ADR,bny-indonesia-adr,955981,BKCID,USD,additional_indices,global_indices
+indonesia,TR Indonesia 50,Thomson Reuters Indonesia 50,thomson-reuters-indonesia-50,941630,TRX50IDP,IDR,additional_indices,global_indices
+indonesia,DJ Indonesia USD,Dow Jones Indonesia USD,dj-indonesia-usd,954703,IDDOWD,USD,major_indices,global_indices
+indonesia,DJ Indonesia,Dow Jones Indonesia,dj-indonesia,954702,IDDOW,IDR,major_indices,global_indices
+indonesia,MSCI Indonesia Net USD,MSCI Indonesia Net USD,msci-indonesia-net-usd,951341,MIID00000NUS,USD,major_indices,global_indices
+indonesia,MSCI Indonesia,MSCI Indonesia,msci-indonesia,942920,MIID00000PID,IDR,major_indices,global_indices
+indonesia,IDX LQ45,Jakarta Stock Exchange LQ45,jakarta-lq45,29046,JKLQ45,IDR,additional_indices,world_indices
+indonesia,IDX PEFINDO-25,IDX PEFINDO-25,pefindo-25,29048,JKPEF25,IDR,additional_indices,world_indices
+indonesia,IDX Kompas 100,IDX Kompas 100,kompas-100,29047,JKKM100,IDR,additional_indices,world_indices
+indonesia,FTSE Indonesia,FTSE Indonesia,ftse-indonesia,29045,FTWIIDNL,IDR,additional_indices,world_indices
+iraq,ISX Main 60,ISX Main 60,isx-main-60,993158,ISX60,IQD,major_indices,world_indices
+ireland,ISEQ Small Capital,ISEQ Small Capital,iseq-small-capital,49651,ISCI,EUR,additional_indices,world_indices
+ireland,FTSE Ireland,FTSE Ireland,ftse-ireland,29067,FTWIIRLE,EUR,additional_indices,world_indices
+ireland,ISEQ 20 Price,ISEQ 20 Price,iseq-20-price,49653,IETP,EUR,additional_indices,world_indices
+ireland,ISEQ Overall,ISEQ Overall,iseq-overall,49648,ISEQ,EUR,major_indices,world_indices
+ireland,ISEQ General,ISEQ General,iseq-general,49650,IGEN,EUR,additional_indices,world_indices
+ireland,BNY Mellon Ireland ADR TR,BNY Mellon Ireland ADR Total Return,bny-ireland-adr-tr,956082,BKIET,USD,additional_indices,global_indices
+ireland,BNY Mellon Ireland Classic ADR TR,BNY Mellon Ireland Classic ADR Total Return,bny-ireland-classic-adr-tr,956111,BKCIET,USD,additional_indices,global_indices
+ireland,BNY Mellon Ireland Classic ADR,BNY Mellon Ireland Classic ADR,bny-ireland-classic-adr,956010,BKCIE,USD,additional_indices,global_indices
+ireland,BNY Mellon Ireland ADR,BNY Mellon Ireland ADR,bny-ireland-adr,955980,BKIE,USD,additional_indices,global_indices
+ireland,DJ Ireland USD,Dow Jones Ireland USD,dj-ireland-usd,954705,IEDOWD,USD,major_indices,global_indices
+ireland,DJ Ireland,Dow Jones Ireland,dj-ireland,954704,IEDOW,EUR,major_indices,global_indices
+ireland,MSCI Ireland,MSCI Ireland,msci-ireland,942906,MIIE00000PEU,EUR,major_indices,global_indices
+israel,BNY Mellon Israel ADR,BNY Mellon Israel ADR,bny-israel-adr,955991,BKIL,USD,additional_indices,global_indices
+israel,MSCI Israel,MSCI Israel,msci-israel,942892,MIIL00000PUS,USD,major_indices,global_indices
+israel,BNY Mellon Israel ADR TR,BNY Mellon Israel ADR Total Return,bny-israel-adr-tr,956064,BKILT,USD,additional_indices,global_indices
+israel,TASE VIX VTA35,Tel Aviv Volatility Index VTA35,tase-vta35,1141703,VTA35,ILS,additional_indices,world_indices
+israel,TA 60 SME,TA 60 SME,ta50ytr,10530,TA60SME,ILS,additional_indices,world_indices
+israel,TA Growth,TA Growth,taytr,10528,TAGROWTH,ILS,additional_indices,world_indices
+israel,TA Allshare,TA Allshare,ta-composite,15291,TAALLSHARE,ILS,additional_indices,world_indices
+israel,TA 90,TA 90,ta75,10531,TA90,ILS,additional_indices,world_indices
+israel,TA 125,TA 125,ta100,10527,TA125,ILS,additional_indices,world_indices
+israel,TA 35,TA 35,ta25,10529,TA35,ILS,major_indices,world_indices
+italy,FTSE MIB,FTSE MIB,it-mib-40,177,FTMIB,EUR,major_indices,world_indices
+italy,FTSE Italia All Share,FTSE Italia All Share,ftse-italia-all-share,27487,FTITLMS,EUR,additional_indices,world_indices
+italy,FTSE IT Mid Cap,FTSE Italia Mid Cap,ftse-italia-mid-cap,27485,FTITMC,EUR,additional_indices,world_indices
+italy,MSCI Italy,MSCI Italy,msci-italy,942898,MIIT00000PEU,EUR,major_indices,global_indices
+italy,MSCI Italy Net EUR,MSCI Italy Net EUR,msci-italy-net-eur,951343,MIIT00000NEU,EUR,major_indices,global_indices
+italy,DJ Italy Titans 30,Dow Jones Italy Titans 30 EUR,dj-italy-titans-30-eur,954711,IT30,EUR,major_indices,global_indices
+italy,DJ Italy,Dow Jones Italy,dj-italy,954713,ITDOW,EUR,major_indices,global_indices
+italy,DJ Italy USD,Dow Jones Italy USD,dj-italy-usd,954714,ITDOWD,USD,major_indices,global_indices
+italy,TR Italy 50,Thomson Reuters Italy 50,thomson-reuters-italy-50,941635,TRX50ITP,EUR,additional_indices,global_indices
+italy,FTSE MIB Net TR TR,FTSE MIB Net TR TR,ftse-mib-net-tr-tr,951257,TRIFTSEMIBN,EUR,additional_indices,global_indices
+italy,DJ Italy Titans 30 USD,Dow Jones Italy Titans 30 USD,dj-italy-titans-30-usd,954712,IT30D,USD,additional_indices,global_indices
+italy,BNY Mellon Italy ADR,BNY Mellon Italy ADR,bny-italy-adr,955990,BKIY,USD,additional_indices,global_indices
+italy,BNY Mellon Italy Classic ADR,BNY Mellon Italy Classic ADR,bny-italy-classic-adr,956021,BKCIT,USD,additional_indices,global_indices
+italy,BNY Mellon Italy ADR TR,BNY Mellon Italy ADR Total Return,bny-italy-adr-tr,956065,BKIYT,USD,additional_indices,global_indices
+italy,BNY Mellon Italy Classic ADR TR,BNY Mellon Italy Classic ADR Total Return,bny-italy-classic-adr-tr,956107,BKCITT,USD,additional_indices,global_indices
+italy,FTSE IT Small Cap,FTSE Italia Small Cap,ftse-italia-small-cap,27486,FTITSC,EUR,additional_indices,world_indices
+italy,Italy 40,Investing.com Italy 40,investing.com-italy-40,956499,invit40,EUR,additional_indices,world_indices
+italy,FTSE MIB TR EUR,FTSE MIB TR EUR,ftse-mib-tr-eur,951248,TFTMIBE,EUR,additional_indices,world_indices
+ivory coast,BRVM 10,BRVM 10,brvm-10,980229,BRVM10CI,XOF,major_indices,world_indices
+ivory coast,BRVM Composite,BRVM Composite,brvm-composite,980228,BRVMCI,XOF,additional_indices,world_indices
+jamaica,JSE All Jamaican Composite,JSE All Jamaican Composite,jse-all-jamaican-composite,995081,JSEAJC,JMD,additional_indices,world_indices
+jamaica,JSE Market,JSE Market,jse-market,995078,JSEMI,JMD,major_indices,world_indices
+japan,BNY Mellon Japan Classic ADR,BNY Mellon Japan Classic ADR,bny-japan-classic-adr,956017,BKCJP,USD,additional_indices,global_indices
+japan,BNY Mellon Japan ADR,BNY Mellon Japan ADR,bny-japan-adr,955967,BKJP,USD,additional_indices,global_indices
+japan,TR Japan 50,Thomson Reuters Japan 50,thomson-reuters-japan-50,941633,TRX50JPP,JPY,additional_indices,global_indices
+japan,BNY Mellon Japan ADR TR,BNY Mellon Japan ADR Total Return,bny-japan-adr-tr,956046,BKJPT,USD,additional_indices,global_indices
+japan,FTSE Japan,FTSE Japan,ftse-japan-chf,961588,FTWIJPNC,CHF,major_indices,global_indices
+japan,DJ Japan USD,Dow Jones Japan USD,dj-japan-usd,954716,JPDOWD,USD,major_indices,global_indices
+japan,DJ Japan,Dow Jones Japan,dj-japan,954715,JPDOW,JPY,major_indices,global_indices
+japan,MSCI Japan Net USD,MSCI Japan Net USD,msci-japan-net-usd,951345,MIJP00000NUS,USD,major_indices,global_indices
+japan,MSCI Japan Net JPY,MSCI Japan Net JPY,msci-japan-net-jpy,951344,MIJP00000NJP,JPY,major_indices,global_indices
+japan,BNY Mellon Japan Classic ADR TR,BNY Mellon Japan Classic ADR Total Return,bny-japan-classic-adr-tr,956140,BKCJPT,USD,additional_indices,global_indices
+japan,Topix 1000,Topix 1000,topix-1000,976403,TOPX1000,JPY,additional_indices,world_indices
+japan,Topix 500,Topix 500,topix-500,976406,TOPX500,JPY,additional_indices,world_indices
+japan,TOPIX Composite,TOPIX Composite,topix-composite,976415,TOPXCOM,JPY,additional_indices,world_indices
+japan,Topix 100,Topix 100,topix-100,976402,TOPX100,JPY,additional_indices,world_indices
+japan,TOPIX,TOPIX,topix,41042,TOPX,JPY,additional_indices,world_indices
+japan,Nikkei JQ Average,Nikkei JQ Average,nikkei-jq-average,28870,NOTC,JPY,additional_indices,world_indices
+japan,Nikkei Volatility,Nikkei Volatility,nikkei-volatility,28878,JNIV,JPY,additional_indices,world_indices
+japan,JASDAQ,JASDAQ,jasdaq,976388,JSD,JPY,additional_indices,world_indices
+japan,JASDAQ 20,JASDAQ 20,jasdaq-20,976389,JSD20,JPY,additional_indices,world_indices
+japan,JPX-Nikkei 400,JPX-Nikkei 400,jpx-nikkei-400,50641,JPXNK400,JPY,additional_indices,world_indices
+japan,Nikkei 1000,Nikkei 1000,nikkei-1000,50632,N1000,JPY,additional_indices,world_indices
+japan,Nikkei 300,Nikkei 300,nikkei-300,50630,N300,JPY,additional_indices,world_indices
+japan,Nikkei 500,Nikkei 500,nikkei-500,50631,N500,JPY,additional_indices,world_indices
+japan,Nikkei 225,Nikkei 225,japan-ni225,178,N225,JPY,major_indices,world_indices
+jordan,MSCI Jordan,MSCI Jordan,msci-jordan,942931,MIJO00000PJO,JOD,major_indices,global_indices
+jordan,Amman SE AllShare,Amman SE AllShare,amman-se-allshare,29090,AMMAN,JOD,additional_indices,world_indices
+jordan,Amman SE General,Amman SE General,amgnrlx,12259,AMGNRLX,JOD,major_indices,world_indices
+kazakhstan,KASE,KASE,kase,993152,KASE,KZT,major_indices,world_indices
+kenya,Nairobi All Share,Nairobi All Share,nairobi-all-share,37429,NASI,KES,additional_indices,world_indices
+kenya,FTSE NSE Kenya 25,FTSE NSE Kenya 25,ftse-nse-kenya-25,29071,FTFNKEN2,KES,additional_indices,world_indices
+kenya,FTSE NSE Kenya 15,FTSE NSE Kenya 15,ftse-nse-kenya-15,29070,FTFNKEN1,KES,additional_indices,world_indices
+kenya,Kenya NSE 20,Kenya NSE 20,kenya-nse-20,37428,NSE20,KES,major_indices,world_indices
+latvia,DJ Latvia Total Market,DJ Latvia Total Market,dj-latvia-total-market-(lvl),41125,DWLI,,additional_indices,world_indices
+lebanon,Beirut Stock,Beirut Stock,beirut-stk-ix,14525,BPSI,USD,additional_indices,world_indices
+lebanon,BDL STOCK IX,BDL STOCK IX,bdl-stock-ix,14524,BDLSI,USD,additional_indices,world_indices
+lebanon,BLOM Stock,BLOM Stock,blom-stk-idx,14523,BLSI,USD,major_indices,world_indices
+lithuania,DJ Lithuania Total Market (EUR),DJ Lithuania Total Market (EUR),dj-lithuania-total-market-(eur),41129,DWLU,LTL,additional_indices,world_indices
+malaysia,MSCI Malaysia Net USD,MSCI Malaysia Net USD,msci-malaysia-net-usd,951359,MIMY00000NUS,USD,major_indices,global_indices
+malaysia,MSCI Malaysia,MSCI Malaysia,msci-malaysia,942922,MIMY00000PMY,MYR,major_indices,global_indices
+malaysia,DJ Malaysia USD,Dow Jones Malaysia USD,dj-malaysia-usd,954724,MYDOWD,USD,major_indices,global_indices
+malaysia,KLCI,FTSE Malaysia KLCI,ftse-malaysia-klci,29078,KLSE,MYR,major_indices,world_indices
+malaysia,DJ Malaysia,Dow Jones Malaysia,dj-malaysia,954723,MYDOW,MYR,major_indices,global_indices
+malaysia,Malaysia ACE,FTSE Bursa Malaysia ACE,ftse-malaysia-ace,29075,FTFBMMES,MYR,additional_indices,world_indices
+malaysia,FTSE BM Mid 70,FTSE Bursa Malaysia Mid 70,ftse-malaysia-mid-70,29076,FTFBM70,MYR,additional_indices,world_indices
+malaysia,Malaysia Top 100,FTSE Bursa Malaysia Top 100,ftse-malaysia-top-100,29077,FTFBM100,MYR,additional_indices,world_indices
+malaysia,FTSE Malaysia,FTSE Malaysia,ftse-malaysia,29074,FTWIMALL,MYR,additional_indices,world_indices
+malta,MSE,MSE,mse,1029190,MSE,EUR,major_indices,world_indices
+mauritius,Semdex,Semdex,semdex,41159,MDEX,MUR,major_indices,world_indices
+mexico,BNY Mellon Mexico Classic ADR,BNY Mellon Mexico Classic ADR,bny-mexico-classic-adr,956053,BKCMX,USD,additional_indices,global_indices
+mexico,BNY Mellon Mexico ADR TR,BNY Mellon Mexico ADR Total Return,bny-mexico-adr-tr,956063,BKMXT,USD,additional_indices,global_indices
+mexico,BNY Mellon Mexico ADR,BNY Mellon Mexico ADR,bny-mexico-adr,955975,BKMX,USD,additional_indices,global_indices
+mexico,DJ Mexico USD,Dow Jones Mexico USD,dj-mexico-usd,954722,MXDOWD,USD,major_indices,global_indices
+mexico,DJ Mexico,Dow Jones Mexico,dj-mexico,954721,MXDOW,MXN,major_indices,global_indices
+mexico,MSCI Mexico,MSCI Mexico,msci-mexico,942923,MIMX00000PUS,USD,major_indices,global_indices
+mexico,BNY Mellon Mexico Classic ADR TR,BNY Mellon Mexico Classic ADR Total Return,bny-mexico-classic-adr-tr,956105,BKCMXT,USD,additional_indices,global_indices
+mexico,FTSE BIVA Real Time Price,FTSE BIVA Real Time Price Index,ftse-biva-real-time-price-index,1089645,FTFTBIVA,MXN,major_indices,world_indices
+mexico,S&P/BMV IPC CompMx,S&P/BMV IPC CompMx,mxse--ipc-composite,27269,MXXCP,MXN,additional_indices,world_indices
+mexico,S&P/BMV IMC30,S&P/BMV MidCap Select 30,mxse-midcap-30,27277,IMC30,MXN,additional_indices,world_indices
+mexico,S&P/BMV IPC,S&P/BMV IPC,ipc,27254,MXX,MXN,major_indices,world_indices
+mexico,S&P/BMV INMEX,S&P/BMV INMEX,inmex,27268,INMX,MXN,additional_indices,world_indices
+mongolia,MNE Top 20,MNE Top 20,mne-top-20,1006455,MNETOP20,MNT,major_indices,world_indices
+montenegro,MONEX,MONEX,monex,1006457,MONEX,EUR,additional_indices,world_indices
+montenegro,MNSE 10,MNSE 10,mnse-10,1006456,MNSE10,EUR,major_indices,world_indices
+morocco,Moroccan All Shares,Moroccan All Shares,masi,13228,MASI,MAD,major_indices,world_indices
+morocco,MADEX,MADEX,madex,19115,MADX,MAD,additional_indices,world_indices
+morocco,FTSE CSE Morocco All-Liquid,FTSE CSE Morocco All-Liquid,ftse-cse-morocco-all-liquid,28905,FTFCSELIQ,MAD,additional_indices,world_indices
+morocco,MSCI Morocco,MSCI Morocco,msci-morocco,942932,MIMA00000PMA,MAD,major_indices,global_indices
+morocco,FTSE CSE Morocco 15,FTSE CSE Morocco 15,ftse-cse-morocco-15,28904,FTFCSE,MAD,additional_indices,world_indices
+namibia,NSX,FTSE NSX Overall,ftse-namibian-overall,961537,FTN098,NAD,major_indices,world_indices
+namibia,NSX Local,FTSE NSX Local,ftse-namibian-local,961538,FTN099,NAD,additional_indices,world_indices
+netherlands,MSCI Netherlands Net EUR,MSCI Netherlands Net EUR,msci-netherlands-net-eur,951362,MINL00000NEU,EUR,major_indices,global_indices
+netherlands,AMX,AMX,amx-index,14862,AMX,EUR,additional_indices,world_indices
+netherlands,AMS Small Cap,AMS Small Cap,ams-small-cap-index,14863,ASCX,EUR,additional_indices,world_indices
+netherlands,AEX Volatility,AEX Volatility,aex-volatility,19629,VAEX,EUR,additional_indices,world_indices
+netherlands,AEX All Share,AEX All Share,ams-all-share-index,14861,AAX,EUR,additional_indices,world_indices
+netherlands,AEX,AEX,netherlands-25,168,AEX,EUR,major_indices,world_indices
+netherlands,MSCI Netherlands,MSCI Netherlands,msci-netherlands,942901,MINL00000PEU,EUR,major_indices,global_indices
+netherlands,AMX Gross,AMX Gross,amx-gross,951267,AMXGR,EUR,additional_indices,global_indices
+netherlands,AEX Gross TR,AEX Gross TR,aex-gross-tr,951265,AEXGR,EUR,additional_indices,global_indices
+netherlands,AEX NR,AEX NR,aex-nr,951266,AEXNR,EUR,additional_indices,global_indices
+netherlands,DJ Netherlands,Dow Jones Netherlands,dj-netherlands,954727,NLDOW,EUR,major_indices,global_indices
+netherlands,DJ Netherlands Titans 30 EUR,Dow Jones Netherlands Titans 30 EUR,dj-netherlands-titans-30-eur,954725,NL30,EUR,additional_indices,global_indices
+netherlands,BNY Mellon Netherlands ADR,BNY Mellon Netherlands ADR,bny-netherlands-adr,955986,BKNL,USD,additional_indices,global_indices
+netherlands,BNY Mellon Netherlands Classic ADR,BNY Mellon Netherlands Classic ADR,bny-netherlands-classic-adr,956056,BKCNL,USD,additional_indices,global_indices
+netherlands,BNY Mellon Netherlands ADR TR,BNY Mellon Netherlands ADR Total Return,bny-netherlands-adr-tr,956078,BKNLT,USD,additional_indices,global_indices
+netherlands,BNY Mellon Netherlands Classic ADR TR,BNY Mellon Netherlands Classic ADR Total Return,bny-netherlands-classic-adr-tr,956158,BKCNLT,USD,additional_indices,global_indices
+netherlands,DJ Netherlands Titans 30 USD,Dow Jones Netherlands Titans 30 USD,dj-netherlands-titans-30-usd,954726,NL30D,USD,additional_indices,global_indices
+new zealand,MSCI New Zealand,MSCI New Zealand,msci-new-zealand,942910,MINZ00000PNZ,NZD,major_indices,global_indices
+new zealand,NZX MidCap,NZX MidCap,nzx-midcap,41148,NZMC,NZD,major_indices,world_indices
+new zealand,NZX 50,NZX 50,nzx-50,41146,NZ50,NZD,major_indices,world_indices
+new zealand,DJ New Zealand,Dow Jones New Zealand,dow-jones-new-zealand,41141,NZDOW,NZD,additional_indices,world_indices
+new zealand,DJ New Zealand (USD),Dow Jones New Zealand (USD),dow-jones-new-zealand-(usd),41142,NZDOWD,NZD,additional_indices,world_indices
+new zealand,NZX All,NZX All,nzx-all,41147,NZCI,NZD,additional_indices,world_indices
+new zealand,NZX SmallCap,NZX SmallCap,nzx-smallcap,41150,NZSC,NZD,additional_indices,world_indices
+new zealand,S&P/NZAX All Price,S&P/NZAX All Price,nzax-all-price,1096456,NZAUC,NZD,additional_indices,world_indices
+nigeria,NSE 30,NSE 30,nse-30,101797,NGSE30,NGN,major_indices,world_indices
+nigeria,NSE All Share,NSE All Share,nse-all-share,101796,NGSEINDEX,NGN,additional_indices,world_indices
+norway,MSCI Norway,MSCI Norway,msci-norway,942907,MINO00000PNO,NOK,major_indices,global_indices
+norway,OBX Price,OBX Price,obx-price,49476,OBXP,NOK,additional_indices,world_indices
+norway,Oslo All Share,Oslo All Share,oslo-all-share,49497,OSEAX,NOK,additional_indices,world_indices
+norway,DJ Norway,Dow Jones Norway,dj-norway,954729,NODOW,NOK,major_indices,global_indices
+norway,DJ Norway USD,Dow Jones Norway USD,dj-norway-usd,954730,NODOWD,USD,major_indices,global_indices
+norway,OMX Oslo 20,OMX Oslo 20,omx-oslo-20,40040,OMXO20PI,NOK,additional_indices,world_indices
+norway,OSE Benchmark,OSE Benchmark,ose-benchamrk,14603,OSEBX,NOK,major_indices,world_indices
+norway,BNY Mellon Norway Classic ADR TR,BNY Mellon Norway Classic ADR Total Return,bny-norway-classic-adr-tr,956122,BKCNOT,USD,additional_indices,global_indices
+norway,BNY Mellon Norway Classic ADR,BNY Mellon Norway Classic ADR,bny-norway-classic-adr,956080,BKCNO,USD,additional_indices,global_indices
+norway,Oslo OBX,Oslo OBX,oslo-obx,44400,OBX,NOK,major_indices,world_indices
+oman,MSM 30,MSM 30,msi,13384,MSI,OMR,major_indices,world_indices
+oman,MSCI Oman,MSCI Oman,msci-oman,942933,MIOM00000POM,OMR,major_indices,global_indices
+pakistan,MSCI Pakistan,MSCI Pakistan,msci-pakistan,942934,MIPK00000PPK,PKR,major_indices,global_indices
+pakistan,Karachi 100,Karachi 100,karachi-100,49677,KSE,PKR,major_indices,world_indices
+pakistan,KMI All Shares,All Shares Islamic Index of Pakistan,kmi-all-shares,977729,KMIAS,PKR,additional_indices,world_indices
+pakistan,FTSE Pakistan,FTSE Pakistan,ftse-pakistan,29146,FTWIPAKL,PKR,additional_indices,world_indices
+pakistan,Karachi 30,Karachi 30,karachi-30,49679,KSE30,PKR,additional_indices,world_indices
+pakistan,Karachi All Share,Karachi All Share,karachi-all-share,49678,KSI,PKR,additional_indices,world_indices
+pakistan,Karachi Meezan 30,Karachi Meezan 30,karachi-meezan-30,945503,KMI30,PKR,additional_indices,world_indices
+palestine,Al-Quds,Al-Quds,ple,13009,PLE,JOD,major_indices,world_indices
+peru,S&P Lima Select,S&P Lima Select,lima-stock-exchange-select,49681,SPBL25PT,PEN,additional_indices,world_indices
+peru,S&P Lima Corporate Gov,S&P Lima Corporate Gov,s-p-lima-corporate-gov,951728,SPBLBGPT,PEN,additional_indices,world_indices
+peru,FTSE Peru,FTSE Peru,ftse-peru,29147,FTWIPERL,PEN,additional_indices,world_indices
+peru,MSCI Peru,MSCI Peru,msci-peru,942924,MIPE00000PUS,USD,major_indices,global_indices
+peru,S&P Lima General,S&P Lima General,lima-stock-exchange-general,49680,SPBLPGPT,PEN,major_indices,world_indices
+peru,S&P Peru Select,S&P Peru Select,s-p-peru-select,953153,SPBLPSPT,PEN,additional_indices,world_indices
+philippines,PSEi Composite,PSEi Composite,psei-composite,49692,PSI,PHP,major_indices,world_indices
+philippines,FTSE Philippines,FTSE Philippines,ftse-philippines,29148,FTWIPHLL,PHP,additional_indices,world_indices
+philippines,DJ Philippines,Dow Jones Philippines,dj-philippines,954741,PHDOW,PHP,major_indices,global_indices
+philippines,MSCI Philippines,MSCI Philippines,msci-philippines,942925,MIPH00000PPH,PHP,major_indices,global_indices
+philippines,PHS All Shares,PHS All Shares,phs-all-shares,49693,PSAL,PHP,additional_indices,world_indices
+poland,WIG30,WIG30,wig30,41044,WIG30,PLN,major_indices,world_indices
+poland,WIG20,WIG20,wig-20,14602,WIG20,PLN,major_indices,world_indices
+poland,MSCI Poland,MSCI Poland,msci-poland,942926,MIPL00000PPL,PLN,major_indices,global_indices
+poland,MSCI Poland NR USD,MSCI Poland NR USD,msci-poland-nr-usd,951367,MIPL00000NUS,USD,additional_indices,global_indices
+poland,sWIG80,sWIG80,wig-80,37660,SWIG80,PLN,additional_indices,world_indices
+poland,WIG,WIG,wig,37662,WIG,PLN,additional_indices,world_indices
+poland,mWIG40,mWIG40,wig-40,37656,MWIG40,PLN,additional_indices,world_indices
+portugal,PSI All Share GR,PSI All Share Gross Return,psi-general,14823,BVLG,EUR,additional_indices,world_indices
+portugal,PSI 20,PSI 20,psi-20,14600,PSI20,EUR,major_indices,world_indices
+portugal,MSCI Portugal,MSCI Portugal,msci-portugal,942911,MIPT00000PEU,EUR,major_indices,global_indices
+portugal,DJ Portugal,Dow Jones Portugal,dj-portugal,954743,PTDOW,EUR,major_indices,global_indices
+portugal,DJ Portugal USD,Dow Jones Portugal USD,dj-portugal-usd,954744,PTDOWD,USD,major_indices,global_indices
+qatar,QE All Shares,QE All Shares,qe-all-shares,40038,QEAS,QAR,additional_indices,world_indices
+qatar,FTSE NASDAQ Qatar 10,FTSE NASDAQ Qatar 10,ftse-nasdaq-dubai-10,28894,FTDQAT,USD,additional_indices,world_indices
+qatar,QE General,QE General,qsi,13185,QSI,QAR,major_indices,world_indices
+qatar,MSCI Qatar,MSCI Qatar,msci-qatar,942935,MIQA00000PQA,QAR,major_indices,global_indices
+romania,BET,BET,bet,14770,BETI,RON,major_indices,world_indices
+romania,Bucharest BET-XT,Bucharest BET-XT,bucharest-bet-xt,28916,BETXT,RON,additional_indices,world_indices
+russia,BNY Mellon Russia Classic ADR,BNY Mellon Russia Classic ADR,bny-russia-classic-adr,956057,BKCRU,USD,additional_indices,global_indices
+russia,BNY Mellon Russia ADR TR,BNY Mellon Russia ADR Total Return,bny-russia-adr-tr,956051,BKRUT,USD,additional_indices,global_indices
+russia,BNY Mellon Russia ADR,BNY Mellon Russia ADR,bny-russia-adr,955983,BKRU,USD,additional_indices,global_indices
+russia,DJ Russia GDR EUR,Dow Jones Russia GDR EUR,dj-russia-gdr-eur,954512,DJRUSG,EUR,additional_indices,global_indices
+russia,Dow Jones Russia Gdr USD,Dow Jones Russia Gdr USD,dow-jones-russia-gdr-usd,943744,DJRUSGD,USD,additional_indices,global_indices
+russia,TR Russia 50,Thomson Reuters Russia 50,thomson-reuters-russia-50,941637,TRX50RUP,RUB,additional_indices,global_indices
+russia,MSCI Russia ADR/GDR,MSCI Russia ADR/GDR,msci-russia-adr-gdr-index,941414,MIRU0000HPUS,USD,additional_indices,global_indices
+russia,RTSI,RTSI,rtsi,13665,IRTS,USD,major_indices,world_indices
+russia,MOEX,MOEX Russia,mcx,13666,IMOEX,RUB,major_indices,world_indices
+russia,MSCI Russia Adr-Gdr USD TR,MSCI Russia Adr-Gdr USD TR,msci-russia-adr-gdr-usd-tr,941352,MIRU0000HNUS,USD,additional_indices,global_indices
+russia,MOEX Blue Chip,MOEX Blue Chip,rts-standard,19689,MOEXBC,RUB,additional_indices,world_indices
+russia,Russian VIX,Russian VIX,russian-vix,946030,RVI,RUB,additional_indices,world_indices
+russia,MOEX 10,MOEX 10,mcx10,13667,MOEX10,RUB,additional_indices,world_indices
+rwanda,Rwanda Share,Rwanda Share,rwanda-share,41168,RSIRW,RWF,additional_indices,world_indices
+rwanda,Rwanda All Share,Rwanda All Share,rwanda-all-share,41167,ALSIRW,RWF,major_indices,world_indices
+saudi arabia,Tadawul All Share,Tadawul All Share,tasi,11319,TASI,SAR,major_indices,world_indices
+serbia,Belex 15,Belex 15,belex-15,945510,BELEX15,RSD,major_indices,world_indices
+singapore,BNY Mellon Singapore Classic ADR TR,BNY Mellon Singapore Classic ADR Total Return,bny-singapore-classic-adr-tr,956095,BKCSGT,USD,additional_indices,global_indices
+singapore,BNY Mellon Singapore Classic ADR,BNY Mellon Singapore Classic ADR,bny-singapore-classic-adr,956038,BKCSG,USD,additional_indices,global_indices
+singapore,MSCI Singapore Free,MSCI Singapore Free,msci-singapore-free-sgd,941420,SIMSCI,SGD,additional_indices,global_indices
+singapore,MSCI Singapore Free SGD TR,MSCI Singapore Free SGD TR,msci-singapore-free-sgd-tr,941369,MISG0000FNSG,SGD,additional_indices,global_indices
+singapore,DJ Singapore USD,Dow Jones Singapore USD,dj-singapore-usd,954750,SGDOWD,USD,major_indices,global_indices
+singapore,DJ Singapore,Dow Jones Singapore,dj-singapore,954749,SGDOW,SGD,major_indices,global_indices
+singapore,MSCI Singapore,MSCI Singapore,msci-singapore,942900,MSCISG,SGD,major_indices,global_indices
+singapore,MSCI Singapore,MSCI Singapore,simsci,100148,MISG0000FPSG,SGD,additional_indices,world_indices
+singapore,FTSE Singapore,FTSE Singapore,ftse-singapore,28869,FTWISGPL,SGD,additional_indices,world_indices
+singapore,STI Index,FTSE Straits Times Singapore,singapore-straits-time,40006,STI,SGD,major_indices,world_indices
+slovakia,SAX,SAX,sax,41155,SAX,EUR,major_indices,world_indices
+slovenia,Blue-Chip SBITOP,Blue-Chip SBITOP,blue-chip-sbitop,29149,SBITOP,EUR,major_indices,world_indices
+south africa,FTSE/JSE Top 40,FTSE/JSE Top 40,ftse-jse-top-40,41043,JTOPI,ZAR,major_indices,world_indices
+south africa,South Africa 40,Investing.com South Africa 40,investing.com-south-africa-40,956501,invsaf40,ZAR,major_indices,world_indices
+south africa,MSCI South Africa,MSCI South Africa,msci-south-africa,942927,MIZA00000PZA,ZAR,major_indices,global_indices
+south africa,MSCI South Africa NR USD,MSCI South Africa NR USD,msci-souch-africa-nr-usd,951403,MIZA00000NUS,USD,major_indices,global_indices
+south africa,DJ South Africa,Dow Jones South Africa,dj-south-africa,954860,ZADOW,ZAR,major_indices,global_indices
+south africa,DJ South Africa USD,Dow Jones South Africa USD,dj-south-africa-usd,954861,ZADOWD,USD,major_indices,global_indices
+south africa,TR South Africa 50,Thomson Reuters South Africa 50,thomson-reuters-south-africa-50,941634,TRX50ZAP,ZAR,additional_indices,global_indices
+south africa,FTSE JSE Shr Top 40,FTSE JSE Shr Top 40,ftse-jse-shr-top-40,951272,FTJ140,ZAR,additional_indices,global_indices
+south africa,BNY Mellon South Africa ADR,BNY Mellon South Africa ADR,bny-south-africa-adr,955999,BKZA,USD,additional_indices,global_indices
+south africa,BNY Mellon South Africa ADR TR,BNY Mellon South Africa ADR Total Return,bny-south-africa-adr-tr,956052,BKZAT,USD,additional_indices,global_indices
+south africa,BNY Mellon South Africa Classic ADR,BNY Mellon South Africa Classic ADR,bny-south-africa-classic-adr,956042,BKCZA,USD,additional_indices,global_indices
+south africa,FTSE South Africa,FTSE South Africa,ftse-south-africa,28887,FTWIZAFL,ZAR,additional_indices,world_indices
+south africa,FTSE/JSE All Share,FTSE/JSE All Share,ftse-jse-all-share,49580,JALSH,ZAR,additional_indices,world_indices
+south africa,BNY Mellon South Africa Classic ADR TR,BNY Mellon South Africa Classic ADR Total Return,bny-south-africa-classic-adr-tr,956103,BKCZAT,USD,additional_indices,global_indices
+south korea,FTSE Korea,FTSE Korea,ftse-korea,29072,FTWIKORL,KRW,additional_indices,world_indices
+south korea,KRX 100,KRX 100,krx-100,49659,KRX100,KRW,additional_indices,world_indices
+south korea,KOSPI Small Sized,KOSPI Small Sized,kospi-small-sized,49662,KS63,KRW,additional_indices,world_indices
+south korea,KOSPI Medium Sized,KOSPI Medium Sized,kospi-medium-sized,49665,KS62,KRW,additional_indices,world_indices
+south korea,KOSPI Large Sized,KOSPI Large Sized,kospi-large-sized,49664,KS61,KRW,additional_indices,world_indices
+south korea,KOSPI 200,KOSPI 200,kospi-200,37427,KS200,KRW,additional_indices,world_indices
+south korea,KOSPI 100,KOSPI 100,kospi-100,49660,KS100,KRW,additional_indices,world_indices
+south korea,KQ 100,KOSDAQ 100,kosdaq-100,980237,KQ100,KRW,additional_indices,world_indices
+south korea,KOSDAQ,KOSDAQ,kosdaq,38016,KQ11,KRW,additional_indices,world_indices
+south korea,KOSPI 50,KOSPI 50,kospi-50,49661,KS50,KRW,major_indices,world_indices
+south korea,KOSPI,KOSPI,kospi,37426,KS11,KRW,major_indices,world_indices
+south korea,MSCI Korea,MSCI Korea,msci-korea,942921,MIKR00000PKR,KRW,major_indices,global_indices
+south korea,MSCI Korea Net USD,MSCI Korea Net USD,msci-korea-net-usd,951350,MIKR00000NUS,USD,major_indices,global_indices
+south korea,DJ South Korea,Dow Jones South Korea,dj-south-korea,954719,KRDOW,KRW,major_indices,global_indices
+south korea,TR Korea 50,Thomson Reuters Korea 50,thomson-reuters-korea-50,941636,TRX50KRP,KRW,additional_indices,global_indices
+south korea,DJ Korea Titans 30 USD TR,DJ South Korea Titans 30 USD TR,dj-kr-ttns30-t,943753,KR30DT,USD,additional_indices,global_indices
+south korea,DJ South Korea Titans 30 KRW,Dow Jones South Korea Titans 30 KRW,dj-south-korea-titans-30-krw,954717,KR30,KRW,additional_indices,global_indices
+south korea,DJ South Korea Titans 30 USD,Dow Jones South Korea Titans 30 USD,dj-south-korea-titans-30-usd,954718,KR30D,USD,additional_indices,global_indices
+south korea,DJ South Korea USD,Dow Jones South Korea USD,dj-south-korea-usd,954720,KRDOWD,USD,additional_indices,global_indices
+south korea,BNY Mellon Korea ADR,BNY Mellon Korea ADR,bny-korea-adr,955973,BKKR,USD,additional_indices,global_indices
+south korea,BNY Mellon Korea ADR TR,BNY Mellon Korea ADR Total Return,bny-korea-adr-tr,956055,BKKRT,USD,additional_indices,global_indices
+south korea,BNY Mellon South Korea DR TR,BNY Mellon South Korea DR Total Return,bny-south-korea-dr-tr,956106,BKDKRT,USD,additional_indices,global_indices
+south korea,BNY Mellon South Korea GDR TR,BNY Mellon South Korea GDR Total Return,bny-south-korea-gdr-tr,956120,BKGKRT,USD,additional_indices,global_indices
+spain,MSCI Spain Net EUR,MSCI Spain Net EUR,msci-spain-net-eur,951316,MIES00000NEU,EUR,major_indices,global_indices
+spain,DJ Spain Titans 30 EUR,Dow Jones Spain Titans 30 EUR,dj-spain-titans-30-eur,954684,ES30,EUR,major_indices,global_indices
+spain,DJ Spain,Dow Jones Spain,dj-spain,954686,ESDOW,EUR,major_indices,global_indices
+spain,DJ Spain USD,Dow Jones Spain USD,dj-spain-usd,954687,ESDOWD,USD,major_indices,global_indices
+spain,DJ Spain Titans 30 USD,Dow Jones Spain Titans 30 USD,dj-spain-titans-30-usd,954685,ES30D,USD,additional_indices,global_indices
+spain,BNY Mellon Spain ADR,BNY Mellon Spain ADR,bny-spain-adr,955988,BKES,USD,additional_indices,global_indices
+spain,BNY Mellon Spain ADR TR,BNY Mellon Spain ADR Total Return,bny-spain-adr-tr,956037,BKEST,USD,additional_indices,global_indices
+spain,MSCI Spain,MSCI Spain,msci-spain,942912,MIES00000PEU,EUR,major_indices,global_indices
+spain,IBEX Small Cap,IBEX Small Cap,ibex-small-cap,24229,IBEXS,EUR,additional_indices,world_indices
+spain,IBEX Medium Cap,IBEX Medium Cap,ibex-medium-cap,24226,IBEXC,EUR,additional_indices,world_indices
+spain,General Madrid,General Madrid,general-madrid,24228,SMSI,EUR,additional_indices,world_indices
+spain,FTSE Latibex,FTSE Latibex,ftse-latibex,24227,IBEXL,EUR,additional_indices,world_indices
+spain,IBEX 35,IBEX 35,spain-35,174,IBEX,EUR,major_indices,world_indices
+sri lanka,MSCI Sri Lanka,MSCI Sri Lanka,msci-sri-lanka,942936,MILK00000PLK,LKR,major_indices,global_indices
+sri lanka,CSE All-Share,CSE All-Share,cse-all-share,29151,CSE,LKR,major_indices,world_indices
+sweden,DJ Sweden USD,Dow Jones Sweden USD,dj-sweden-usd,954748,SEDOWD,USD,major_indices,global_indices
+sweden,MSCI Sweden,MSCI Sweden,msci-sweden,942899,MISE00000PSE,SEK,major_indices,global_indices
+sweden,DJ Sweden Titans 30,Dow Jones Sweden Titans 30,dj-sweden-titans-30,954745,SE30,SEK,major_indices,global_indices
+sweden,DJ Sweden,Dow Jones Sweden,dj-sweden,954747,SEDOW,SEK,major_indices,global_indices
+sweden,DJ Sweden Titans 30 USD,Dow Jones Sweden Titans 30 USD,dj-sweden-titans-30-usd,954746,SE30D,USD,additional_indices,global_indices
+sweden,BNY Mellon Sweden Classic ADR,BNY Mellon Sweden Classic ADR,bny-sweden-classic-adr,956068,BKCSW,USD,additional_indices,global_indices
+sweden,BNY Mellon Sweden Classic ADR TR,BNY Mellon Sweden Classic ADR Total Return,bny-sweden-classic-adr-tr,956119,BKCSWT,USD,additional_indices,global_indices
+sweden,OMXS30,OMX Stockholm 30,omx-stockholm-30,25685,OMXS30,SEK,major_indices,world_indices
+sweden,OMX Nordic 40,OMX Nordic 40,omx-nordic-40,25684,OMXN40,EUR,additional_indices,world_indices
+sweden,OMX Stockholm,OMX Stockholm,omx-stockholm,25683,OMXSPI,SEK,additional_indices,world_indices
+sweden,OMX Stockholm Benchmark,OMX Stockholm Benchmark,omx-stockholm-benchmark,25681,OMXSBPI,SEK,additional_indices,world_indices
+sweden,OMX Stockholm Mid Cap,OMX Stockholm Mid Cap,omx-stockholm-mid-cap,25682,OMXSMCPI,SEK,additional_indices,world_indices
+sweden,OMX Stockholm Small Cap,OMX Stockholm Small Cap,omx-stockholm-small-cap,25680,OMXSSCPI,SEK,additional_indices,world_indices
+switzerland,FTSE Switzerland,FTSE Switzerland,ftse-switzerland,28826,FTWICHEL,CHF,additional_indices,world_indices
+switzerland,MSCI Switzerland,MSCI Switzerland,msci-switzerland,942902,MICH00000PCH,CHF,major_indices,global_indices
+switzerland,SMI,SMI,switzerland-20,176,SSMI,CHF,major_indices,world_indices
+switzerland,DJ Switzerland,Dow Jones Switzerland,dj-switzerland,954226,CHDOW,CHF,major_indices,global_indices
+switzerland,Swiss Mid Price,Swiss Mid Price,swiss-mid,49472,SMIM,CHF,additional_indices,world_indices
+switzerland,Swiss All Share Cumulative Dividend,Swiss All Share Cumulative Dividend,swiss-allshare,49474,SSIR,CHF,additional_indices,world_indices
+switzerland,DJ Switzerland Titans 30 USD,Dow Jones Switzerland Titans 30 USD,dj-switzerland-titans-30-usd,954225,CH30D,USD,additional_indices,global_indices
+switzerland,DJ Switzerland USD,Dow Jones Switzerland USD,dj-switzerland-usd,954227,CHDOWD,USD,additional_indices,global_indices
+switzerland,DJ Switzerland Titans 30,Dow Jones Switzerland Titans 30,dj-switzerland-titans-30,954224,CH30,CHF,additional_indices,global_indices
+switzerland,BNY Mellon Switzerland Classic ADR,BNY Mellon Switzerland Classic ADR,bny-switzerland-classic-adr,956013,BKCCH,USD,additional_indices,global_indices
+switzerland,BNY Mellon Switzerland ADR TR,BNY Mellon Switzerland ADR Total Return,bny-switzerland-adr-tr,956015,BKCHT,USD,additional_indices,global_indices
+switzerland,BNY Mellon Switzerland Classic ADR TR,BNY Mellon Switzerland Classic ADR Total Return,bny-switzerland-classic-adr-tr,956146,BKCCHT,USD,additional_indices,global_indices
+switzerland,BNY Mellon Switzerland ADR,BNY Mellon Switzerland ADR,bny-switzerland-adr,955969,BKCH,USD,additional_indices,global_indices
+taiwan,TPEx 50,TPEx 50,tpex-50,1013367,GTSM50,TWD,major_indices,world_indices
+taiwan,Taiwan Weighted,Taiwan Weighted,taiwan-weighted,38017,TWII,TWD,major_indices,world_indices
+taiwan,BNY Mellon Taiwan DR TR,BNY Mellon Taiwan DR Total Return,bny-taiwan-dr-tr,956135,BKDTWT,USD,additional_indices,global_indices
+taiwan,BNY Taiwan DR,BNY Mellon Taiwan DR,bny-taiwan-gdr-tr,956093,BKDTW,USD,additional_indices,global_indices
+taiwan,BNY Mellon Taiwan ADR TR,BNY Mellon Taiwan ADR Total Return,bny-taiwan-adr-tr,956076,BKTWT,USD,additional_indices,global_indices
+taiwan,BNY Mellon Taiwan ADR,BNY Mellon Taiwan ADR,bny-taiwan-adr,955970,BKTW,USD,additional_indices,global_indices
+taiwan,MSCI Taiwan Net USD,MSCI Taiwan Net USD,msci-taiwan-net-usd,951209,MITW00000NUS,USD,additional_indices,global_indices
+taiwan,DJ Taiwan USD,Dow Jones Taiwan USD,dj-taiwan-usd,954758,TWDOWD,USD,major_indices,global_indices
+taiwan,DJ Taiwan,Dow Jones Taiwan,dj-taiwan,954757,TWDOW,TWD,major_indices,global_indices
+taiwan,FTSE TWSE Taiwan MidCap 100,FTSE TWSE Taiwan Mid Cap 100,ftse-twse-taiwan-mid-cap-100,29172,TSE100M,TWD,additional_indices,world_indices
+taiwan,MSCI Taiwan,MSCI Taiwan,msci-taiwan,100150,MSCITW,TWD,additional_indices,world_indices
+taiwan,TPEx,TPEx,tpex,1013366,TWOII,TWD,additional_indices,world_indices
+taiwan,TSEC Taiwan 50,TSEC Taiwan 50,tsec-taiwan-50,29181,TSE50,TWD,additional_indices,world_indices
+tanzania,Tanzania All Share,Tanzania All Share,tanzania-all-share,41164,DSEI,TZS,major_indices,world_indices
+thailand,SET,SET Index,thailand-set,38015,SETI,THB,major_indices,world_indices
+thailand,MSCI Thailand,MSCI Thailand,msci-thailand,942928,MITH00000PTH,THB,major_indices,global_indices
+thailand,FTSE SET All-Share,FTSE SET All-Share,ftse-set-all-share,29182,FTFSTHA,THB,additional_indices,world_indices
+thailand,FTSE SET Mid Cap,FTSE SET Mid Cap,ftse-set-mid-cap,29183,FTFSTHM,THB,additional_indices,world_indices
+thailand,FTSE SET Mid Small Cap,FTSE SET Mid Small Cap,ftse-set-mid-small-cap,29184,FTFSTHMS,THB,additional_indices,world_indices
+thailand,FTSE SET Shariah,FTSE SET Shariah,ftse-set-shariah,29185,FTFSTSH,THB,additional_indices,world_indices
+thailand,MAI,MAI,mai,41045,MAII,THB,additional_indices,world_indices
+thailand,SET 100,SET 100,set-100,41047,SET100,THB,additional_indices,world_indices
+thailand,SET 50,SET 50,set-50,41049,SET50,THB,additional_indices,world_indices
+thailand,MSCI Thailand NR USD,MSCI Thailand NR USD,msci-thailand-nr-usd,951371,MITH00000NUS,USD,additional_indices,global_indices
+thailand,FTSE SET Large Cap,FTSE SET Large Cap,ftse-set-large-cap,29186,FTFSTHL,THB,additional_indices,world_indices
+tunisia,Tunindex20,Tunindex20,tunindex20,948432,TUNINDEX20,TND,major_indices,world_indices
+tunisia,Tunindex,Tunindex,tunindex,18823,TUNINDEX,TND,major_indices,world_indices
+turkey,BIST All-100,BIST All-100,ise-all-100,19163,XTUMY,TRY,additional_indices,world_indices
+turkey,BIST All Shares,BIST All Shares,ise-all-shares,19162,XUTUM,TRY,additional_indices,world_indices
+turkey,BIST 50,BIST 50,ise-50,19157,XU050,TRY,additional_indices,world_indices
+turkey,BIST 30,BIST 30,ise-30,19158,XU030,TRY,additional_indices,world_indices
+turkey,MSCI Turkey,MSCI Turkey,msci-turkey,942929,MITR00000PTR,TRY,major_indices,global_indices
+turkey,DJ Turkey Titans 20 EUR,DJ Turkey Titans 20 EUR,dj-turkey-titans-20,951254,TR20E,EUR,major_indices,global_indices
+turkey,MSCI Turkey Net EUR,MSCI Turkey Net EUR,msci-turkey-net-eur,951372,MITR00000NEU,EUR,major_indices,global_indices
+turkey,DJ Turkey Titans 20 TRY,Dow Jones Turkey Titans 20,dj-turkey-titans-20-try,954756,TR20,TRY,major_indices,global_indices
+turkey,TR Turkey 50,Thomson Reuters Turkey 50,thomson-reuters-turkey-50,941638,TRX50TRP,TRY,additional_indices,global_indices
+turkey,DJ Turkey Titans 20 TR USD,DJ Turkey Titans 20 TR USD,dj-turkey-titans-20-tr,943764,TR20DT,USD,additional_indices,global_indices
+turkey,DJ Turkey Titans 20 TR TRY,DJ Turkey Titans 20 TR TRY,dj-turkey-titans-20-tr-try,951255,TR20T,TRY,additional_indices,global_indices
+turkey,BNY Turkey Classic ADR,BNY Mellon Turkey Classic ADR,bny-turkey-adr,955978,BKCTR,USD,additional_indices,global_indices
+turkey,BNY Turkey Classic ADR TR,BNY Mellon Turkey Classic ADR TR,bny-turkey-adr-tr,956045,BKCTRT,USD,additional_indices,global_indices
+turkey,BIST 100,BIST 100,ise-100,19155,XU100,TRY,major_indices,world_indices
+turkey,BIST 100-30,BIST 100-30,ise-100-30,19160,XYUZO,TRY,additional_indices,world_indices
+uganda,Uganda All Share,Uganda All Share,uganda-all-share,41111,ALSIUG,UGX,major_indices,world_indices
+ukraine,PFTS,PFTS,pfts,29191,PFTSI,UAH,major_indices,world_indices
+united arab emirates,FTSE NASDAQ Dubai UAE 20 USD,FTSE NASDAQ Dubai UAE 20 USD,ftse-nasdaq-dubai-uae-20-usd,28899,FTDUAE,USD,additional_indices,global_indices
+united arab emirates,FTSE NASDAQ Dubai UAE 20,FTSE NASDAQ Dubai UAE 20,ftse-nasdaq-dubai-uae-20,28895,FTDUAED,USD,additional_indices,global_indices
+united arab emirates,MSCI United Arab Emirates,MSCI United Arab Emirates,msci-united-arab-emirates,942937,MIAE00000PAE,AED,major_indices,global_indices
+united kingdom,DJ UK USD,Dow Jones UK USD,dj-uk-usd,954695,GBDOWD,USD,major_indices,global_indices
+united kingdom,DJ UK,Dow Jones UK,dj-uk,954694,GBDOW,GBP,major_indices,global_indices
+united kingdom,TR UK 50,Thomson Reuters United Kingdom 50,thomson-reuters-united-kingdom-50,941626,TRX50GBP,GBP,major_indices,global_indices
+united kingdom,BNY Mellon United Kingdom Classic ADR TR,BNY Mellon United Kingdom Classic ADR Total Return,bny-united-kingdom-classic-adr-tr,956129,BKCGBT,USD,additional_indices,global_indices
+united kingdom,BNY Mellon United Kingdom ADR TR,BNY Mellon United Kingdom ADR Total Return,bny-united-kingdom-adr-tr,956048,BKGBT,USD,additional_indices,global_indices
+united kingdom,BNY Mellon United Kingdom Classic ADR,BNY Mellon United Kingdom Classic ADR,bny-united-kingdom-classic-adr,956033,BKCGB,USD,additional_indices,global_indices
+united kingdom,BNY Mellon United Kingdom ADR,BNY Mellon United Kingdom ADR,bny-united-kingdom-adr,955987,BKGB,USD,additional_indices,global_indices
+united kingdom,DJ U.K. Titans 50 EUR,Dow Jones UK Titans 50 EUR,dj-u.k.-titans-50-eur,954761,UK50E,EUR,additional_indices,global_indices
+united kingdom,DJ U.K. Titans 50 USD,Dow Jones UK Titans 50 USD,dj-u.k.-titans-50-usd,954760,UK50D,USD,additional_indices,global_indices
+united kingdom,DJ UK Titans 50,Dow Jones UK Titans 50,dj-uk-titans-50,954759,UK50,GBP,additional_indices,global_indices
+united kingdom,MSCI United Kingdom,MSCI United Kingdom,msci-united-kingdom,942913,MIGB00000PGB,GBP,major_indices,global_indices
+united kingdom,FTSE 100,FTSE 100,uk-100,27,FTSE,GBP,major_indices,world_indices
+united kingdom,FTSE 250,FTSE 250,uk-250,11763,FTMC,GBP,additional_indices,world_indices
+united kingdom,FTSE 350,FTSE 350,ftse-350,27399,FTLC,GBP,additional_indices,world_indices
+united kingdom,FTSE AIM All Share,FTSE AIM All Share,ftse-aim-all-share,27376,FTAI,GBP,additional_indices,world_indices
+united kingdom,FTSE All-Share,FTSE All-Share,ftse-all-share,27322,FTAS,GBP,additional_indices,world_indices
+united kingdom,FTSE SmallCap,FTSE SmallCap,ftse-smallcap,27454,FTSC,GBP,additional_indices,world_indices
+united kingdom,UK 100,Investing.com United Kingdom 100,investing.com-uk-100,956500,invuk100,GBP,additional_indices,world_indices
+united kingdom,FTSE TechMARK Focus,FTSE TechMARK Focus,ftse-techmark-100,27458,FTT1X,GBP,additional_indices,world_indices
+united states,Dow 30,Dow Jones Industrial Average,us-30,169,DJI,USD,major_indices,world_indices
+united states,Nasdaq 100,Nasdaq 100,nq-100,20,NDX,USD,major_indices,world_indices
+united states,Nasdaq,NASDAQ Composite,nasdaq-composite,14958,IXIC,USD,major_indices,world_indices
+united states,S&P 500,S&P 500,us-spx-500,166,SPX,USD,major_indices,world_indices
+united states,S&P 500 VIX,CBOE Volatility Index,volatility-s-p-500,44336,VIX,USD,additional_indices,world_indices
+united states,DJ Composite,Dow Jones Composite,dj-composite-average,19943,DJA,USD,additional_indices,world_indices
+united states,DJ Transportation,Dow Jones Transportation,dj-transportation-average,19941,DJT,USD,additional_indices,world_indices
+united states,DJ Utility,Dow Jones Utility,dj-utility-average,19942,DJU,USD,additional_indices,world_indices
+united states,NYSE AMEX Composite,NYSE AMEX Composite,nyse-market-composite,27652,XAX,USD,additional_indices,world_indices
+united states,NYSE Composite,NYSE Composite,nyse-composite,27604,NYA,USD,additional_indices,world_indices
+united states,OTCM ADR,OTCM ADR,otcm-adr,941623,OTCDR,USD,additional_indices,world_indices
+united states,OTCM QX ADR 30,OTCM QX ADR 30,otcm-qx-adr-30,941622,OTCQX30,USD,additional_indices,world_indices
+united states,S&P 100,S&P 100,s-p-100,40821,OEX,USD,additional_indices,world_indices
+united states,SmallCap 2000,US SmallCap 2000,smallcap-2000,170,RUT,USD,additional_indices,world_indices
+united states,TR US 50,Thomson Reuters United States 50,thomson-reuters-united-states-50,941639,TRX50USP,USD,additional_indices,global_indices
+united states,MSCI USA,MSCI USA,msci-usa,942908,MIUS00000PUS,USD,additional_indices,global_indices
+united states,Russell Midcap NR,Russell Midcap NR,russell-midcap-nr,951225,RUMNU,USD,additional_indices,global_indices
+united states,MSCI US Net EUR,MSCI US Net EUR,msci-us-net-eur,951375,MIUS00000NEU,EUR,major_indices,global_indices
+united states,MSCI US Net USD,MSCI US Net USD,msci-us-net-usd,951376,MIUS00000NUS,USD,major_indices,global_indices
+venezuela,Bursatil,Bursatil,bursatil,49748,IBC,VES,major_indices,world_indices
+venezuela,Merinvest Composite,Merinvest Composite,merinvest-composite,29193,MRCP,VES,additional_indices,world_indices
+vietnam,VN100,VN100,vn100,995068,VNI100,VND,additional_indices,world_indices
+vietnam,VN,VN,vn,41063,VNI,VND,additional_indices,world_indices
+vietnam,HNX,HNX,hnx,41062,HNXI,VND,additional_indices,world_indices
+vietnam,FTSE Vietnam All,FTSE Vietnam All,ftse-vietnam-all,29197,FTFVAS,VND,additional_indices,world_indices
+vietnam,VN 30,VN 30,vn-30,41064,VNI30,VND,major_indices,world_indices
+vietnam,HNX 30,HNX 30,hnx-30,995072,HNX30,VND,major_indices,world_indices
+vietnam,FTSE Vietnam,FTSE Vietnam,ftse-vietnam,29196,FTFVTT,VND,additional_indices,world_indices
+world,FTSE World,FTSE World,ftse-world,961590,FTWORLDSR,USD,major_indices,global_indices
+world,FTSE BBC Global 30,FTSE BBC Global 30,ftse-bbc-global-30,961216,FTBBC30,GBP,major_indices,global_indices
+world,FTSE Asia Pacific,FTSE Asia Pacific,ftse-asia-pacific,961207,FTAWPACSR,USD,major_indices,global_indices
+world,FTSE All World,FTSE All World,ftse-all-world,961206,FTAWORLDSR,USD,major_indices,global_indices
+world,NQ Global,NASDAQ Global,nq-global,957489,NQGI,USD,major_indices,global_indices
+world,BNY Mellon International 100 ADR,BNY Mellon International 100 ADR,bny-international-100-adr,956137,BKTADR,USD,major_indices,global_indices
+world,DJ Global,Dow Jones Global,dj-global,954766,W1DOW,USD,major_indices,global_indices
+world,The Global Dow EUR,The Global Dow EUR,the-global-dow-eur,954697,GDOWE,EUR,major_indices,global_indices
+world,The Global Dow USD,The Global Dow USD,the-global-dow-usd,954696,GDOW,USD,major_indices,global_indices
+world,MSCI World,MSCI World,msci-world,942959,MIWO00000PUS,USD,major_indices,global_indices
+world,MSCI AC World Equity,MSCI All-Country World Equity Index,msci-world-stock,941023,MIWD00000PUS,USD,major_indices,global_indices
+world,FTSE Global 100,FTSE Global 100,ftse-global-100,49434,FTMN1XR,USD,major_indices,global_indices
+world,S&P Global 100,S&P Global 100,s-p-global-100,27609,OOI,USD,major_indices,global_indices
+world,FTSE4Good Global 100,FTSE4Good Global 100,ftse4good-global-100,961149,FT4GDGLOB100,USD,major_indices,global_indices
+world,L&S DAX,L&S DAX,l-s-dax,965078,DAX=LUSG,EUR,additional_indices,global_indices
+world,FTSE CNBC Global 300,FTSE CNBC Global 300,ftse-cnbc-global-300,961377,FTFCNBCG,USD,additional_indices,global_indices
+world,FTSE All World North America,FTSE All World North America,ftse-all-world-north-america,961205,FTAWNAMERS,USD,additional_indices,global_indices
+world,FTSE/ASEAN 40,FTSE/ASEAN 40,ftse-asean-40,961166,FTASEAN40,USD,additional_indices,global_indices
+world,BNY Mellon International 100 ADR TR,BNY Mellon International 100 ADR Total Return,bny-international-100-adr-tr,956160,BKTADRT,USD,additional_indices,global_indices
+world,BNY Mellon Asia DR TR,BNY Mellon Asia DR Total Return,bny-asia-dr-tr,956094,BKDAST,USD,additional_indices,global_indices
+world,BNY Mellon Latin America 35 ADR TR,BNY Mellon Latin America 35 ADR Total Return,bny-latin-america-35-adr-tr,956087,BKTLAT,USD,additional_indices,global_indices
+world,BNY Mellon Kazakhstan GDR TR,BNY Mellon Kazakhstan GDR Total Return,bny-kazakhstan-gdr-tr,956121,BKGKZT,USD,additional_indices,global_indices
+world,BNY Mellon Asia Classic ADR,BNY Mellon Asia Classic ADR,bny-asia-classic-adr,956023,BKCAS,USD,additional_indices,global_indices
+world,BNY Mellon Asia ADR TR,BNY Mellon Asia ADR Total Return,bny-asia-adr-tr,956041,BKAST,USD,additional_indices,global_indices
+world,BNY Mellon Latin America 35 ADR,BNY Mellon Latin America 35 ADR,bny-latin-america-35-adr,956007,BKTLA,USD,additional_indices,global_indices
+world,BNY Mellon Asia 50 ADR,BNY Mellon Asia 50 ADR,bny-asia-50-adr,956004,BKTAS,USD,additional_indices,global_indices
+world,BNY Mellon Developed Markets ADR,BNY Mellon Developed Markets ADR,bny-developed-markets-adr,955995,BKDM,USD,additional_indices,global_indices
+world,BNY Mellon Emerging Markets ADR,BNY Mellon Emerging Markets ADR,bny-emerging-markets-adr,955984,BKEM,USD,additional_indices,global_indices
+world,BNY Mellon Latin America ADR,BNY Mellon Latin America ADR,bny-latin-america-adr,955972,BKLA,USD,additional_indices,global_indices
+world,BNY Mellon Asia ADR,BNY Mellon Asia ADR,bny-asia-adr,955965,BKAS,USD,additional_indices,global_indices
+world,DJ Tiger Titans 50,Dow Jones Tiger Titans 50,dj-tiger-titans-50,954554,DJTGR,USD,additional_indices,global_indices
+world,DJ Islam International Titans 100,Dow Jones Islamic Market International Titans 100,dj-islam-international-titans-100,954401,DJI100X,USD,additional_indices,global_indices
+world,The Asia Dow JPY,The Asia Dow JPY,the-asia-dow-jpy,954196,ADOWJ,JPY,additional_indices,global_indices
+world,DJ Arabia Titans 50,Dow Jones Arabia Titans 50,dj-arabia-titans-50,954236,DJARB50,USD,additional_indices,global_indices
+world,The Asia Dow EUR,The Asia Dow EUR,the-asia-dow-eur,954195,ADOWE,EUR,additional_indices,global_indices
+world,The Asia Dow AUD,The Asia Dow AUD,the-asia-dow-aud,954194,ADOWA,AUD,additional_indices,global_indices
+world,The Asia Dow USD,The Asia Dow USD,the-asia-dow-usd,954193,ADOW,USD,additional_indices,global_indices
+world,DJ Africa Titans 50 PR USD,Dow Jones Africa Titans 50 Price Return USD,dj-africa-titans-50-pr-usd,954001,DJAFK,USD,additional_indices,global_indices
+world,MSCI Bangladesh IMI NR USD,MSCI Bangladesh IMI NR USD,msci-bangladesh-imi-nr-usd,951289,MIBD000I0NUS,USD,additional_indices,global_indices
+world,Dow Jones Gl Titan 50 EUR,Dow Jones Gl Titan 50 EUR,dow-jones-gl-titan-50-eur,943743,DJGTE,EUR,additional_indices,global_indices
+world,MSCI World IMI,MSCI World IMI,msci-world-imi,942996,MIWO000I0PUS,USD,additional_indices,global_indices
+world,MSCI EM Asia,MSCI EM Asia,msci-em-asia,942974,MIMS00000PUS,USD,additional_indices,global_indices
+world,MSCI Asia Apex 50 USD,MSCI Asia Apex 50 USD,msci-asia-apex-50-usd,941424,ASIAAPEX,USD,additional_indices,global_indices
+zambia,LSE All Share,LSE All Share,lse-all-share,941333,LASILZ,ZMW,major_indices,world_indices
+zambia,LSE EN,LSE EN,lse-en,941335,ENLZ,ZMW,additional_indices,world_indices
+zambia,LSE Inv,LSE Inv,lse-inv,941334,INVLZ,ZMW,additional_indices,world_indices
+zimbabwe,Zimbabwe Mining,Zimbabwe Mining,zimbabwe-mining,41166,MINZI,ZWD,additional_indices,world_indices
+zimbabwe,Zimbabwe Industrial,Zimbabwe Industrial,zimbabwe-industrial,41165,INDZI,ZWD,additional_indices,world_indices

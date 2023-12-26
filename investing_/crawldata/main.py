@@ -1,0 +1,38 @@
+from crawldata.functions import *
+import requests
+
+cookies = {
+    'market': 'eyJpdiI6ImNvcDd1TGJROWp0UUh2bU5IN3RSOHc9PSIsInZhbHVlIjoiUEJKUENsMWxjdit0dVRNNm9vVjZvd2xZbENyTHZDTkFvandJWjRueFhXNDJ2Y1hLWmJJZE1zWng2ZS9lODR1NCIsIm1hYyI6IjQ5YWJhNTU4Y2UxZjZkMjQzNWFmM2NmMWFiZDdiYWU5MmY0ODM1MDg0MDIxYzZkY2Q4YTQ4YzFmNDI1NzdjY2IifQ%3D%3D',
+    'laravel_token': 'eyJpdiI6Ik5DSjV0a0xXQ2tsSDJ4SnFmdmtsNHc9PSIsInZhbHVlIjoicDdUZjRSZE5iSnlTTTFNQ21qWW1CNFdNV3J0aHJKOEhxMExKVHBoaVJDSEZrczR6MXlLZUdneXlUNCtlZGNWeEl1YURtT2RwMlVIb29yZUIrSklSNy80MXZxNzJjWkZ5WUZLakVNY1lhSEZBZGgySkdtQm5JYVk1Yk9pOGExOG5ZWXJDcmFFOVJ0WW9INDUzbHJqRlJxRTZZVnlLUTBPYkU4N0x4cE85Q0ZvNU5yL29tOEdnczlHc0h4dHRmZUV1Q2lKRml3OUFnM1BCOHdTUXpJQVVjeVFobmxnQjYwektjb2R2TnRmUjZrWGwvallvdFAvR0oxc25EZ0Y1eW1sMEwrNW96dkhWd0JRdm5TSGMzclBLS0tvWlVEekVINlFtRFZTeDFkR0JCOGo3Sk9yLzI2M25kUU1CUUJpN0lZUnEiLCJtYWMiOiI4OTcwNmVkNjM4ODgyNDAxNjAzMTc0ZWU1MWNkYWFmNWY4NDEzMGFkYzE0ZTJkMGQ3N2FjZmM5MGE2YmNkMWRhIn0%3D',
+    'XSRF-TOKEN': 'eyJpdiI6IlhneGdMVjRzUTd5dTBsajlFQzkxQkE9PSIsInZhbHVlIjoiNlRuQlFQa0FWNThGNGh3NnBsUEdnbWdhbGtwQ3FqQ3dYVjd3MU1VbFVGV3VyLzEzcmJZSmNCSWxtbW4rWXpDbWxjcTBOQWtFRVE3aG5qQkUwcjNCZjdGamVTaWVzbmFobnBtVVpjUzBEODRjUWxJZGJhUVB5Wnpkb25Mb1p4dlciLCJtYWMiOiI5YTkxNGJmYzhkN2QzYjI2ZjA0ZGIzODJlZmYxOTYxMGEwM2I2OWQ0MjMzNDJjZDdiN2MwOWYxY2ZiMWFmNmUwIn0%3D',
+    'laravel_session': 'eyJpdiI6InR3U2pjdmlsVkNxR1Q2eUl1b2JwTFE9PSIsInZhbHVlIjoiM3Yxc0pzbGxXNUNwQk9SeDFrOHBOWXdVUW9VYmZxTXZiakNsSmNwNWtpano1bXc0Qm5Bbk02U1FjT3dnTk9nS0dYOE9ERlJtc0NCTGQyVkF2M3g2OWNBeFB4aXo3WTVRUGhZVWZWRDRYOG5kSkVGZ0RqK1Z1a1UrVHBOYVJQbjIiLCJtYWMiOiI4MGU5ZmJlYTEyNDUwYWM2NDQ5NjlmNzRkYTlkNTY5NzAyZmNmOTE1M2I1NWJhZTZlYTc0NzM2ODQyOTMzY2RjIn0%3D',
+}
+
+headers = {
+    'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0',
+    'X-XSRF-TOKEN': 'eyJpdiI6Im9WTEFUcUp5ei8zRUhqN01oODVPb3c9PSIsInZhbHVlIjoiaVMyUmExNnhnejR5SUdwOHlwcHlJYkhmcEZySXpLSEwwL0RKVlBEL0lCN1d3TkplYjQ1UjJJRGk0WjZ4d29FZGpQWFlsa1A2c0Rjalk3MHBNays3TWtQNUhpS2RGNytuM3VpSjFNRFgyeDN0alJBWE96bEoveXN6WjRVeGJmQU8iLCJtYWMiOiJmYjk1ZWI2MDRjOTJlZDgxMTU2OTY4MTNkOWI1ODIwMGEzYjYwOThiY2Q1ZTMxZDE5NDlhOGI1MDEzNjU4MjZiIn0=',
+    # 'Accept': 'application/json',
+    # 'Accept-Language': 'en-US,en;q=0.5',
+    # # 'Accept-Encoding': 'gzip, deflate, br',
+    # 'Connection': 'keep-alive',
+    # 'Referer': 'https://www.barchart.com/forex/cot-reports?view=commercial',
+    # # 'Cookie': '_ga_PE0FK9V6VN=GS1.1.1695257190.2.0.1695257190.60.0.0; _ga=GA1.1.1330480700.1695224006; _ga_5EST90M6PX=GS1.1.1695224008.1.1.1695225210.0.0.0; market=eyJpdiI6ImNvcDd1TGJROWp0UUh2bU5IN3RSOHc9PSIsInZhbHVlIjoiUEJKUENsMWxjdit0dVRNNm9vVjZvd2xZbENyTHZDTkFvandJWjRueFhXNDJ2Y1hLWmJJZE1zWng2ZS9lODR1NCIsIm1hYyI6IjQ5YWJhNTU4Y2UxZjZkMjQzNWFmM2NmMWFiZDdiYWU5MmY0ODM1MDg0MDIxYzZkY2Q4YTQ4YzFmNDI1NzdjY2IifQ%3D%3D; remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d=eyJpdiI6Ik1qQ3QzSGpjK2pKQ2pyUGdXV1orMlE9PSIsInZhbHVlIjoiVENJcnpuVXRlbThGdXk1ZW93Q01vQ01JVGpZQXBQUE1qTERVenNUSllaUHo5TmROc01RRkd1ZnBqMzhQOXAwR3NZcVo0KytIdktOMytTallibERGdkJYV3orWmlhUElPaEhQRE5vNStETjhLNGFURmJlK3JuaEpWZVdsSUNaTTh0K1F5R0tyTUthRWh0ZWVpNGJvcHIwZWZqK2gybWJxdEVpbWNEaGEwa3dwalpOS2dwSnd1RTA1QnBhR2NyOHc5VWRjNVVsNXZON3IwMXBqWSs5OGYvRHZLc3J6R1hLZzBoeUxpYUE4a2RPWT0iLCJtYWMiOiIxZjUxMGZjMDQ5OTI4M2EzN2U4Zjc3YzU3YzdlYmQwZDA4ZTIxNzk0MjAzNmQ2ZGYwM2NlOTdjZDI0YWY0MmE4In0%3D; laravel_token=eyJpdiI6Ik5DSjV0a0xXQ2tsSDJ4SnFmdmtsNHc9PSIsInZhbHVlIjoicDdUZjRSZE5iSnlTTTFNQ21qWW1CNFdNV3J0aHJKOEhxMExKVHBoaVJDSEZrczR6MXlLZUdneXlUNCtlZGNWeEl1YURtT2RwMlVIb29yZUIrSklSNy80MXZxNzJjWkZ5WUZLakVNY1lhSEZBZGgySkdtQm5JYVk1Yk9pOGExOG5ZWXJDcmFFOVJ0WW9INDUzbHJqRlJxRTZZVnlLUTBPYkU4N0x4cE85Q0ZvNU5yL29tOEdnczlHc0h4dHRmZUV1Q2lKRml3OUFnM1BCOHdTUXpJQVVjeVFobmxnQjYwektjb2R2TnRmUjZrWGwvallvdFAvR0oxc25EZ0Y1eW1sMEwrNW96dkhWd0JRdm5TSGMzclBLS0tvWlVEekVINlFtRFZTeDFkR0JCOGo3Sk9yLzI2M25kUU1CUUJpN0lZUnEiLCJtYWMiOiI4OTcwNmVkNjM4ODgyNDAxNjAzMTc0ZWU1MWNkYWFmNWY4NDEzMGFkYzE0ZTJkMGQ3N2FjZmM5MGE2YmNkMWRhIn0%3D; XSRF-TOKEN=eyJpdiI6IlhneGdMVjRzUTd5dTBsajlFQzkxQkE9PSIsInZhbHVlIjoiNlRuQlFQa0FWNThGNGh3NnBsUEdnbWdhbGtwQ3FqQ3dYVjd3MU1VbFVGV3VyLzEzcmJZSmNCSWxtbW4rWXpDbWxjcTBOQWtFRVE3aG5qQkUwcjNCZjdGamVTaWVzbmFobnBtVVpjUzBEODRjUWxJZGJhUVB5Wnpkb25Mb1p4dlciLCJtYWMiOiI5YTkxNGJmYzhkN2QzYjI2ZjA0ZGIzODJlZmYxOTYxMGEwM2I2OWQ0MjMzNDJjZDdiN2MwOWYxY2ZiMWFmNmUwIn0%3D; laravel_session=eyJpdiI6InR3U2pjdmlsVkNxR1Q2eUl1b2JwTFE9PSIsInZhbHVlIjoiM3Yxc0pzbGxXNUNwQk9SeDFrOHBOWXdVUW9VYmZxTXZiakNsSmNwNWtpano1bXc0Qm5Bbk02U1FjT3dnTk9nS0dYOE9ERlJtc0NCTGQyVkF2M3g2OWNBeFB4aXo3WTVRUGhZVWZWRDRYOG5kSkVGZ0RqK1Z1a1UrVHBOYVJQbjIiLCJtYWMiOiI4MGU5ZmJlYTEyNDUwYWM2NDQ5NjlmNzRkYTlkNTY5NzAyZmNmOTE1M2I1NWJhZTZlYTc0NzM2ODQyOTMzY2RjIn0%3D; bcFreeUserPageView=15',
+    # 'Sec-Fetch-Dest': 'empty',
+    # 'Sec-Fetch-Mode': 'cors',
+    # 'Sec-Fetch-Site': 'same-origin',
+}
+
+response = requests.get(
+    'https://www.barchart.com/proxies/core-api/v1/commitment-of-traders/get?datePage=1&display=cotData&lists=forex.cot.regular&meta=field.name,lastUpdate&type=commercial',
+    'https://www.barchart.com/proxies/core-api/v1/commitment-of-traders/get?dateLimit=6&datePage=1&display=netPositions&lists=forex.cot.regular&meta=field.name,lastUpdate&type=commercial',
+
+    'https://www.barchart.com/proxies/core-api/v1/commitment-of-traders/get?dateLimit=6&datePage=1&display=netPositions&lists=forex.cot.financial_futures&meta=field.name,lastUpdate&type=dealerIntermediary',
+
+    'https://www.barchart.com/proxies/core-api/v1/commitment-of-traders/get?datePage=1&display=cotData&lists=forex.cot.financial_futures&meta=field.name,lastUpdate&type=dealerIntermediary',
+    'https://www.barchart.com/proxies/core-api/v1/commitment-of-traders/get?datePage=1&display=cotData&lists=forex.cot.financial_futures&meta=field.name,lastUpdate&type=assetManager',
+    'https://www.barchart.com/proxies/core-api/v1/commitment-of-traders/get?datePage=1&display=cotData&lists=forex.cot.financial_futures&meta=field.name,lastUpdate&type=leveragedFunds',
+    'https://www.barchart.com/proxies/core-api/v1/commitment-of-traders/get?datePage=1&display=cotData&lists=forex.cot.financial_futures&meta=field.name,lastUpdate&type=financialFuturesOther',
+    cookies=cookies,
+    headers=headers,
+)
+print(response.text)
